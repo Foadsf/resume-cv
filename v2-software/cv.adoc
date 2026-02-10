@@ -1,0 +1,177 @@
+= Curriculum Vitae — Foad S. Farimani, PhD
+:doctype: article
+:icons: font
+:toc: left
+:toclevels: 2
+:sectnums!:
+
+_Software Engineer / Architect | C#/.NET, Python | Open Source Contributor (14k+ SO, 490+ GitHub★)_
+
+[.small]
+Apeldoorn, Netherlands | +31 614685010 |
+mailto:f.s.farimani@gmail.com[] |
+https://linkedin.com/in/fsfarimani[linkedin.com/in/fsfarimani] |
+https://github.com/Foadsf[github.com/Foadsf] |
+https://stackoverflow.com/users/4999991[Stack Overflow]
+
+'''
+
+== Professional Summary
+
+Software engineer with deep expertise in C#/.NET and Python, backed by 10+ years of engineering spanning surgical robotics research and semiconductor manufacturing. Active open-source contributor with 166 GitHub repositories (490+ stars), including widely-used NXOpen Python tutorials and C math/BLAS/LAPACK resources. Top-3% Stack Overflow user (14,467 reputation, 19 gold badges) with recognized expertise in Python, NumPy, and Windows development. Built real-time control software for MRI-compatible surgical robots and production automation systems for ASML's supply chain. Unique perspective bridging embedded/real-time systems with enterprise software architecture.
+
+'''
+
+== Professional Experience
+
+=== System Lead Engineer — NTS D&E (Norma), Hengelo
+_Tier-1 ASML supplier — high-precision manufacturing systems_ | Mar 2022–Present
+
+* Developed C#/.NET tooling and automation software for ASML DUV/EUV production test systems.
+* Built Python-based analysis pipelines for fatigue performance, precision engineering, and heat transfer.
+* Automated engineering workflows integrating Siemens NX with manufacturing execution systems.
+* Conducted fatigue performance, precision engineering, and heat transfer analyses for critical components.
+
+=== Lead Mechanical Engineer — VDL ETG T&D, Hengelo
+_ASML supplier — precision opto-mechanical systems_ | Jul 2020–Feb 2022
+
+* Designed opto-mechanical modules for ASML's YieldStar 500 metrology system.
+* Led engineering for EXE5000 cable slab module tooling and NXE3800 thermo-mechanical module.
+* Specialized in sheetmetal design, additive manufacturing, and rapid prototyping.
+* Implemented advanced fastener techniques including bolt calculation, welding, and glued connections.
+* Contributed to agile development and concurrent engineering processes.
+
+=== Doctoral Candidate — University of Twente, Enschede
+_Surgical Robotics Laboratory — MRI-Compatible Robotic Systems_ | Dec 2015–Mar 2020
+
+* Developed PneuAct system: additively manufactured pneumatic stepper actuator for MRI-guided interventions.
+* Created PneuARMM platform for pneumatically actuated robotic surgeries.
+* Secured €70K healthcare innovation grant (collaboration UT–MST Enschede, 2018).
+* Managed rapid prototyping lab, supervising CNC operations and 3D printing capabilities.
+* Supervised and mentored multiple MSc and BSc students on research projects.
+* Published 5+ peer-reviewed papers in IEEE ICRA, RA-L, and related venues.
+* Filed two patents on MRI-compatible robotic architectures.
+
+=== Researcher — University of Twente, Enschede
+_Robotics and Mechatronics — MURAB & PanoSurg projects_ | Aug 2014–Nov 2015
+
+* Designed and prototyped McRobot system for MRI-guided thorax interventions.
+* Contributed to EU-funded MURAB project (MRI and Ultrasound Robotic Assisted Biopsy, €4.5M).
+* Developed enhanced reality interfaces for minimally invasive procedures (PanoSurg, €50K).
+* Implemented collision avoidance algorithms for human-robot collaboration.
+
+=== Researcher — TU Eindhoven
+_Control Systems Technology — Prof. Maarten Steinbuch_ | Aug 2012–Feb 2014
+
+* System design of MRI-guided robots for minimally invasive surgery (McRobot project).
+* Applied biomimicry principles to patient-mounted mechanisms for interventional procedures.
+* Designed MRI-compatible force cells and sensors for surgical feedback.
+* Supervised MSc students; contributed to grant proposals for medical robotics research.
+
+=== Research Assistant — Amirkabir University of Technology, Tehran
+_Biomedical Engineering Faculty — Motion Analysis Group_ | Jan 2006–Jan 2010
+
+* Developed MRI-compatible robot designs for minimally invasive procedures.
+* Created robots for radioactive agent injection and needle positioning.
+* Contributed to exoskeleton robot design for rehabilitation.
+
+=== R&D Project Director — Deble Co., Tehran
+Jan 2004–Jun 2005
+
+* Designed and prototyped a 3D printing system for construction using Iranian plaster (gatch).
+* Managed system design, project planning, and experimental validation.
+* Coordinated engineering team across mechanical, electrical, and control domains.
+
+'''
+
+== Education
+
+*MSc, Biomedical Engineering* — Amirkabir University of Technology, Tehran, 2006–2009 +
+Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_ +
+Supervisor: Prof. Rostami | Focus: Medical robotics in Motion Analysis Lab
+
+*BSc, Mechanical Engineering* — Sharif University of Technology, Tehran, 2000–2006 +
+Thesis: _Design and prototyping of a construction assistance robot_ | Specialization: Solid State Design
+
+'''
+
+== Publications
+
+. "Mechanism Design of a Patient-Mounted MRI Compatible Robot"
+. "PneuAct-II: Hybrid Manufactured Electromagnetically Stealth Pneumatic Stepper Actuator"
+. "Dynamic Modeling of MRI Compatible Assistant Surgery Robot"
+. "Introducing PneuAct: Parametrically-Designed MRI-Compatible Pneumatic Stepper Actuator"
+. "Primary Design of MRI Compatible Needle for the purpose of soft tissue insertion"
+. "Frictional characteristics of Fusion Deposition Modeling (FDM) manufactured surfaces"
+
+'''
+
+== Patents
+
+. MRI Compatible Surgery Assistant Robot
+. Drugs Injection Smart Robot
+
+'''
+
+== Grants & Funded Research
+
+* *MURAB* — EU Horizon 2020, €4.5M (2015). MRI and Ultrasound Robotic Assisted Biopsy.
+* *PneuARMM* — €70K healthcare innovation grant, collaboration UT–MST Enschede (2018).
+* *PanoSurg* — €50K Pioneers in Healthcare award, collaboration UT–ZGT Hengelo (2015).
+
+'''
+
+== Technical Skills
+
+[cols="1,4",frame=none,grid=none]
+|===
+|*Programming:*    |Python (NumPy, SciPy, Jupyter), C#/.NET/WPF/XAML, C/C++, MATLAB/Simulink/Octave, Fortran
+|*CAD/CAE:*        |Siemens NX, SolidWorks, CATIA, FreeCAD, Inventor, Fusion 360, ANSYS, COMSOL, OpenFOAM, Elmer FEM
+|*Simulation:*     |Modelica, Simulink, system modeling
+|*Platforms:*      |Git, Linux, Windows, Docker
+|*Documentation:*  |LaTeX, AsciiDoc, Markdown, LibreOffice, Inkscape, GIMP, Blender
+|*Methodologies:*  |Systems Engineering (V-model), Agile/Scrum, Lean Manufacturing, Concurrent Engineering
+|===
+
+'''
+
+== Open Source & Community
+
+[cols="1,4",frame=none,grid=none]
+|===
+|*GitHub:*         |166 repositories, 490+ stars. Notable: https://github.com/Foadsf/Cmathtuts[Cmathtuts] (438★), https://github.com/Foadsf/NXOpen_Python_tutorials[NXOpen_Python] (75★), https://github.com/Foadsf/awsomeEngSci[awsomeEngSci] (41★), https://github.com/Foadsf/NXtips[NXtips] (37★)
+|*Stack Overflow:* |14,467 reputation, 19 gold / 100 silver / 261 bronze badges. Top tags: Python, Windows, PyAudio, NumPy
+|*FLOSS Advocacy:* |Maintainer of Awesome-FLOSS-CAS; open-source software advocate and contributor
+|===
+
+'''
+
+== Leadership & Activities
+
+* Chair of Surface Treatment Competence at NTS D&E
+* Research Funding Initiative Lead at NTS D&E
+* ASML Technology Angel Team member for strategic business roadmap
+* Secretary of Iranian Network at University of Twente (IrNUT)
+* Open source software advocate and contributor
+
+'''
+
+== Languages
+
+English (professional working proficiency) · Dutch (elementary, A2) · Persian/Farsi (native)
+
+'''
+
+== Industrial Internships
+
+*Saipa Press Co.*, Tehran | Jul–Dec 2005 +
+Robot maintenance for ABB robots with pneumatic end effectors.
+
+*ACECR-Sharif University Branch*, Tehran | Jan–Jun 2002 +
+Human-powered vehicles and ultra-light airplanes; mechanical design and power transmission.
+
+'''
+
+== References
+
+Available upon request.

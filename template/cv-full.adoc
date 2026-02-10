@@ -1,0 +1,177 @@
+// =============================================================================
+// FULL CURRICULUM VITAE TEMPLATE — Foad S. Farimani
+// =============================================================================
+// VARIANTS: Reorder sections and swap tagged blocks per target role:
+//   [V1] Systems/R&D Lead      → Experience → Research → Publications → Skills
+//   [V2] Software Engineer     → Skills → Experience → OSS → Education → Pubs
+//   [V3] Program Manager       → Experience (mgmt) → Grants → Education → Skills
+//
+// Render: asciidoctor-pdf cv-full.adoc
+//         asciidoctor cv-full.adoc  (for HTML)
+// =============================================================================
+= Curriculum Vitae — Foad S. Farimani, PhD
+:doctype: article
+:icons: font
+:toc: left
+:toclevels: 2
+:sectnums!:
+// :pdf-theme: cv-theme.yml
+
+// --- VARIANT TAGLINE ---------------------------------------------------------
+// [V1]:
+_Lead Systems Engineer — Surgical Robotics & Semiconductor Systems_
+// [V2]:
+// _Software Engineer / Architect — C#/.NET, Python, Open Source_
+// [V3]:
+// _Technical Program Manager — R&D Leadership & Systems Delivery_
+// -----------------------------------------------------------------------------
+
+[.small]
+Apeldoorn, Netherlands | mailto:f.s.farimani@gmail.com[] |
+https://linkedin.com/in/fsfarimani[linkedin.com/in/fsfarimani] |
+https://github.com/Foadsf[github.com/Foadsf] |
+https://stackoverflow.com/users/4999991[Stack Overflow]
+
+'''
+
+== Professional Summary
+
+// --- VARIANT: Expand to 4-5 lines. Include quantifiable achievements. --------
+// [V1]:
+Systems engineer with 8+ years spanning high-precision semiconductor manufacturing
+and academic R&D in surgical robotics. At NTS, delivered complex mechatronic modules
+for ASML lithography systems with sub-micron tolerances. PhD research at University
+of Twente produced patented MRI-compatible robotic architectures, published in top
+IEEE venues. Experienced in EU Horizon 2020 grant acquisition and multi-institution
+research coordination. Passionate about bridging fundamental research and
+industrial-grade system delivery.
+
+// [V2]:
+// <<< Insert V2 expanded summary here >>>
+
+// [V3]:
+// <<< Insert V3 expanded summary here >>>
+
+'''
+
+// =============================================================================
+// NOTE: REORDER sections below per variant.
+// =============================================================================
+
+== Professional Experience
+
+=== System Lead Engineer — NTS D&E (Norma), Hengelo
+_ASML supplier — high-precision manufacturing systems_ | 20XX–Present
+
+* Led system-level design and integration of precision modules for ASML lithography equipment.
+* Managed requirements across mechanical, electrical, and software domains for multi-disciplinary teams.
+* Drove V&V processes for high-precision assemblies with sub-micron tolerances.
+* Developed C#/.NET tooling and automation software for production test systems.
+* Authored technical specifications; coordinated with ASML system architects on interfaces.
+* Implemented Python-based data analysis pipelines for quality monitoring and yield improvement.
+* Contributed to continuous improvement and lean manufacturing initiatives.
+// [V2] add: * Architected software interfaces between Siemens NX CAD and manufacturing execution systems.
+// [V3] add: * Owned project schedules, risk registers, and stakeholder communication for customer deliverables.
+
+=== PhD Researcher — University of Twente, Netherlands
+_Robotics and Mechatronics Lab — MRI-Compatible Surgical Robotics_ | 20XX–20XX
+
+* Designed and prototyped MRI-compatible surgical robots using novel pneumatic actuation systems (PneuAct series).
+* Developed real-time control software in C#/.NET and Python for pneumatic actuation.
+* Built simulation, data acquisition, and sensor integration systems with custom control loops.
+* Published 5+ peer-reviewed papers in IEEE ICRA, RA-L, and related venues.
+* Filed patent on MRI-compatible surgical robotic architecture.
+* Secured EU Horizon 2020 funding as part of multi-institution consortium.
+* Supervised MSc students and coordinated with clinical partners at Radboudumc.
+* Investigated additive manufacturing tribology for medical device components.
+
+=== MSc Research — Amirkabir University of Technology, Tehran
+20XX–20XX
+
+* <<< Brief description of MSc research/thesis >>>
+
+'''
+
+== Education
+
+*PhD, Surgical Robotics* — University of Twente, Netherlands, 20XX +
+Thesis: _<<< Title >>>_ +
+Supervisors: <<< Names >>>
+
+*MSc, Mechanical Engineering* — Amirkabir University of Technology, Tehran, 20XX +
+Thesis: _<<< Title >>>_
+
+*BSc, Mechanical Engineering* — Amirkabir University of Technology, Tehran, 20XX
+
+'''
+
+== Publications
+
+=== Journal Articles
+
+[V1]. <<< Author list, "Title," _Journal_, vol. X, no. Y, pp. Z, Year. >>>
+
+[V2]. <<< ... >>>
+
+=== Conference Papers
+
+[C1]. <<< Author list, "Title," in _Proc. IEEE ICRA_, Year. >>>
+
+[C2]. <<< ... >>>
+
+'''
+
+== Patents
+
+[P1]. <<< Inventors, "Title," Patent No. XXXXX, Filed: YYYY. >>>
+
+'''
+
+== Grants & Funded Research
+
+* *EU Horizon 2020* — <<< Project name, consortium, your role, funding amount, years >>>
+* *WBSO* — <<< Description if applicable >>>
+
+'''
+
+== Technical Skills
+
+[cols="1,4",frame=none,grid=none]
+|===
+|*Programming:*    |C#/.NET, Python, Fortran, MATLAB, Bash
+|*CAD/CAE:*        |Siemens NX (advanced), SolidWorks, ANSYS, OpenFOAM
+|*Platforms:*      |Git, Linux, Windows, Docker, CI/CD
+|*Data/Scientific:*|NumPy, Pandas, PyAudio, Matplotlib, Jupyter
+|*Documentation:*  |LaTeX, AsciiDoc, Markdown, Technical Writing
+|*Methodologies:*  |Systems Engineering (V-model), Agile/Scrum, Lean Manufacturing
+|===
+
+'''
+
+== Open Source & Community
+
+[cols="1,4",frame=none,grid=none]
+|===
+|*GitHub:*         |166 repositories, 490+ stars, 474 contributions (2025). Notable: https://github.com/Foadsf/Cmathtuts[Cmathtuts] (438★), https://github.com/Foadsf/NXOpen_Python_tutorials[NXOpen_Python] (75★), https://github.com/Foadsf/awsomeEngSci[awsomeEngSci] (41★)
+|*Stack Overflow:* |14,467 reputation, 19 gold / 100 silver / 261 bronze badges. Top tags: Python, Windows, PyAudio, NumPy
+|*FLOSS Advocacy:* |Maintainer of Awesome-FLOSS-CAS; contributor to ModelicaPDE and others
+|===
+
+'''
+
+== Languages
+
+English (fluent) · Persian/Farsi (native) · Dutch (basic / A2) · Arabic (basic reading)
+
+'''
+
+== Professional Affiliations
+
+* IEEE Member — Robotics and Automation Society
+* <<< Other affiliations >>>
+
+'''
+
+== References
+
+Available upon request.

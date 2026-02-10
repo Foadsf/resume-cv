@@ -1,0 +1,231 @@
+%% =============================================================================
+%% FULL CURRICULUM VITAE TEMPLATE — Foad S. Farimani
+%% =============================================================================
+%% VARIANTS: Sections marked with [V1]/[V2]/[V3] should be reordered or
+%% emphasized per target role:
+%%   [V1] Systems/R&D Lead      → Lead with Experience, then Research, then Skills
+%%   [V2] Software Engineer     → Lead with Skills, then Open Source, then Experience
+%%   [V3] Program Manager       → Lead with Experience (mgmt framing), then Grants
+%% =============================================================================
+
+\documentclass[11pt,a4paper]{article}
+
+%% --- Packages ----------------------------------------------------------------
+\usepackage[margin=0.75in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+
+%% --- BibLaTeX (optional — uncomment if using .bib file) ----------------------
+% \usepackage[backend=biber,style=numeric-comp,sorting=ydnt,maxbibnames=99]{biblatex}
+% \addbibresource{publications.bib}
+
+%% --- Colors & Styles ---------------------------------------------------------
+\definecolor{accent}{HTML}{2B5797}
+\hypersetup{colorlinks=true,urlcolor=accent,linkcolor=accent}
+
+\titleformat{\section}{\Large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{6pt}
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+\titlespacing*{\subsection}{0pt}{6pt}{3pt}
+
+\setlist[itemize]{nosep,left=0pt,label=\textbullet,topsep=2pt}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize Foad S. Farimani --- Curriculum Vitae --- Page \thepage}
+
+\setlength{\parindent}{0pt}
+
+%% =============================================================================
+\begin{document}
+
+%% --- Header ------------------------------------------------------------------
+\begin{center}
+  {\LARGE\bfseries Foad S. Farimani, PhD} \\[4pt]
+  %%--- VARIANT TAGLINE --------------------------------------------------------
+  %% [V1]:
+  {\large Lead Systems Engineer --- Surgical Robotics \& Semiconductor Systems}
+  %% [V2]:
+  % {\large Software Engineer / Architect --- C\#/.NET, Python, Open Source}
+  %% [V3]:
+  % {\large Technical Program Manager --- R\&D Leadership \& Systems Delivery}
+  %%----------------------------------------------------------------------------
+  \\[6pt]
+  {\small
+    Apeldoorn, Netherlands\enspace$\mid$\enspace
+    \href{mailto:f.s.farimani@gmail.com}{f.s.farimani@gmail.com}\enspace$\mid$\enspace
+    \href{https://linkedin.com/in/fsfarimani}{linkedin.com/in/fsfarimani}\enspace$\mid$\enspace
+    \href{https://github.com/Foadsf}{github.com/Foadsf}\enspace$\mid$\enspace
+    \href{https://stackoverflow.com/users/4999991}{Stack Overflow}
+  }
+\end{center}
+
+%% --- Professional Summary ----------------------------------------------------
+\section{Professional Summary}
+%%--- VARIANT: See resume template for variant-specific summaries. Expand to
+%%    4-5 lines for CV. Include quantifiable achievements. ---------------------
+%% [V1]:
+Systems engineer with 8+ years spanning high-precision semiconductor manufacturing
+and academic R\&D in surgical robotics. At NTS, delivered complex mechatronic modules
+for ASML lithography systems with sub-micron tolerances. PhD research at University
+of Twente produced patented MRI-compatible robotic architectures, published in top
+IEEE venues. Experienced in EU Horizon 2020 grant acquisition and multi-institution
+research coordination. Passionate about bridging fundamental research and
+industrial-grade system delivery.
+
+%% [V2]:
+% <<< Insert V2 expanded summary here >>>
+
+%% [V3]:
+% <<< Insert V3 expanded summary here >>>
+
+%% =============================================================================
+%% NOTE: REORDER the following sections per variant:
+%%   [V1]: Experience → Education → Research → Publications → Skills → OSS
+%%   [V2]: Skills → Experience → OSS/Community → Education → Publications
+%%   [V3]: Experience → Grants/Leadership → Education → Skills → Publications
+%% =============================================================================
+
+%% --- Professional Experience -------------------------------------------------
+\section{Professional Experience}
+
+\subsection{System Lead Engineer --- NTS D\&E (Norma), Hengelo}
+{\small\textit{ASML supplier --- high-precision manufacturing systems}} \hfill {\small Mar 2022--Present}
+
+\begin{itemize}
+  %% Comprehensive bullets — ALL variants use these, but REORDER by relevance.
+  \item Led system-level design and integration of precision modules for ASML lithography equipment.
+  \item Managed requirements across mechanical, electrical, and software domains for multi-disciplinary teams.
+  \item Drove V\&V processes for high-precision assemblies with sub-micron tolerances.
+  \item Developed C\#/.NET tooling and automation software for production test systems.
+  \item Authored technical specifications; coordinated with ASML system architects on interfaces.
+  \item Implemented Python-based data analysis pipelines for quality monitoring and yield improvement.
+  \item Contributed to continuous improvement and lean manufacturing initiatives.
+  %% [V2] add: \item Architected software interfaces between Siemens NX CAD and manufacturing execution systems.
+  %% [V3] add: \item Owned project schedules, risk registers, and stakeholder communication for customer deliverables.
+\end{itemize}
+
+\subsection{PhD Researcher --- University of Twente, Netherlands}
+{\small\textit{Robotics and Mechatronics Lab --- MRI-Compatible Surgical Robotics}} \hfill {\small See variant files for dates}
+
+\begin{itemize}
+  \item Designed and prototyped MRI-compatible surgical robots using novel pneumatic actuation systems (PneuAct series).
+  \item Developed real-time control software in C\#/.NET and Python for pneumatic actuation.
+  \item Built simulation, data acquisition, and sensor integration systems with custom control loops.
+  \item Published 5+ peer-reviewed papers in IEEE ICRA, RA-L, and related venues.
+  \item Filed patent on MRI-compatible surgical robotic architecture.
+  \item Secured EU Horizon 2020 funding as part of multi-institution consortium.
+  \item Supervised MSc students and coordinated with clinical partners at Radboudumc.
+  \item Investigated additive manufacturing tribology for medical device components.
+\end{itemize}
+
+\subsection{MSc Research --- Amirkabir University of Technology, Tehran}
+\hfill {\small See variant files for dates}
+\begin{itemize}
+  \item <<< Brief description of MSc research/thesis >>>
+\end{itemize}
+
+%% --- Education ---------------------------------------------------------------
+\section{Education}
+
+\textbf{PhD, Surgical Robotics} \hfill University of Twente, Netherlands, 20XX \\
+{\small Thesis: <<< Title >>> \quad Supervisors: <<< Names >>>}
+
+\vspace{4pt}
+\textbf{MSc, Mechanical Engineering} \hfill Amirkabir University of Technology, Tehran, 20XX \\
+{\small Thesis: <<< Title >>>}
+
+\vspace{4pt}
+\textbf{BSc, Mechanical Engineering} \hfill Amirkabir University of Technology, Tehran, 20XX
+
+%% --- Publications ------------------------------------------------------------
+\section{Publications}
+
+%%--- Option A: Manual list (shown here) ----------------------------------------
+%%--- Option B: BibLaTeX (uncomment \printbibliography below) -------------------
+
+\subsection{Journal Articles}
+\begin{enumerate}[label={[J\arabic*]}]
+  \item <<< Author list, ``Title,'' \textit{Journal}, vol.~X, no.~Y, pp.~Z, Year. >>>
+  \item <<< ... >>>
+\end{enumerate}
+
+\subsection{Conference Papers}
+\begin{enumerate}[label={[C\arabic*]}]
+  \item <<< Author list, ``Title,'' in \textit{Proc. IEEE ICRA}, Year. >>>
+  \item <<< ... >>>
+\end{enumerate}
+
+%% --- Option B: BibLaTeX auto-generated list ---
+% \printbibliography[heading=none]
+
+%% --- Patents -----------------------------------------------------------------
+\section{Patents}
+
+\begin{enumerate}[label={[P\arabic*]}]
+  \item <<< Inventors, ``Title,'' Patent No.~XXXXX, Filed: YYYY. >>>
+\end{enumerate}
+
+%% --- Grants & Funded Research ------------------------------------------------
+\section{Grants \& Funded Research}
+
+\begin{itemize}
+  \item \textbf{EU Horizon 2020} --- <<< Project name, consortium, your role, funding amount, years >>>
+  \item \textbf{WBSO} --- <<< Description if applicable >>>
+\end{itemize}
+
+%% --- Technical Skills --------------------------------------------------------
+\section{Technical Skills}
+
+\begin{tabularx}{\textwidth}{@{}lX@{}}
+  \textbf{Programming:}   & C\#/.NET, Python, Fortran, MATLAB, Bash \\
+  \textbf{CAD/CAE:}        & Siemens NX (advanced --- see NXtips repo), SolidWorks, ANSYS, OpenFOAM \\
+  \textbf{Platforms:}      & Git, Linux, Windows, Docker, CI/CD \\
+  \textbf{Data/Scientific:}& NumPy, Pandas, PyAudio, Matplotlib, Jupyter \\
+  \textbf{Documentation:}  & \LaTeX, AsciiDoc, Markdown, Technical Writing \\
+  \textbf{Methodologies:}  & Systems Engineering (V-model), Agile/Scrum, Lean Manufacturing \\
+\end{tabularx}
+
+%% --- Open Source & Community -------------------------------------------------
+\section{Open Source \& Community}
+
+\begin{tabularx}{\textwidth}{@{}lX@{}}
+  \textbf{GitHub:}          & 166 repositories, 490+ stars, 474 contributions (2025).
+                              Notable: \href{https://github.com/Foadsf/Cmathtuts}{Cmathtuts} (438$\star$),
+                              \href{https://github.com/Foadsf/NXOpen_Python_tutorials}{NXOpen\_Python} (75$\star$),
+                              \href{https://github.com/Foadsf/awsomeEngSci}{awsomeEngSci} (41$\star$) \\
+  \textbf{Stack Overflow:}  & 14,467 reputation, 19 gold / 100 silver / 261 bronze badges.
+                              Top tags: Python, Windows, PyAudio, NumPy \\
+  \textbf{FLOSS Advocacy:}  & Maintainer of Awesome-FLOSS-CAS; contributor to ModelicaPDE and others \\
+\end{tabularx}
+
+%% --- Languages ---------------------------------------------------------------
+\section{Languages}
+
+English (fluent)\enspace$\cdot$\enspace
+Persian/Farsi (native)\enspace$\cdot$\enspace
+Dutch (basic / A2)\enspace$\cdot$\enspace
+Arabic (basic reading)
+
+%% --- Professional Affiliations -----------------------------------------------
+\section{Professional Affiliations}
+
+\begin{itemize}
+  \item IEEE Member --- Robotics and Automation Society
+  \item <<< Other affiliations >>>
+\end{itemize}
+
+%% --- References --------------------------------------------------------------
+\section{References}
+
+Available upon request.
+
+\end{document}

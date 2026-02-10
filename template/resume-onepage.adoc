@@ -1,0 +1,151 @@
+// =============================================================================
+// ONE-PAGE RESUME TEMPLATE — Foad S. Farimani
+// =============================================================================
+// VARIANTS: Swap tagged blocks for each target role:
+//   [V1] Systems/R&D Lead
+//   [V2] Software Engineer/Architect
+//   [V3] Program Manager
+//
+// Render: asciidoctor-pdf resume-onepage.adoc
+//         asciidoctor resume-onepage.adoc  (for HTML)
+// =============================================================================
+= Foad S. Farimani
+:doctype: article
+:icons: font
+:nofooter:
+:pdf-theme: default
+// Uncomment for custom theme:
+// :pdf-themesdir: themes
+// :pdf-theme: resume-theme.yml
+
+// --- VARIANT TAGLINE ---------------------------------------------------------
+// [V1]:
+_Lead Systems Engineer | PhD in Surgical Robotics | Semiconductor & Medical Devices_
+// [V2]:
+// _Software Engineer / Architect | C#/.NET, Python | FLOSS Advocate_
+// [V3]:
+// _Program Manager | R&D Leadership | Cross-Functional Delivery_
+// -----------------------------------------------------------------------------
+
+[.small]
+Apeldoorn, Netherlands | mailto:f.s.farimani@gmail.com[] |
+https://linkedin.com/in/fsfarimani[LinkedIn] |
+https://github.com/Foadsf[GitHub] |
+https://stackoverflow.com/users/4999991[Stack Overflow (14k+)]
+
+'''
+
+== Professional Summary
+
+// --- VARIANT SUMMARY ---------------------------------------------------------
+// [V1] Systems/R&D Lead:
+Systems engineer with 8+ years in high-precision manufacturing and R&D, including
+PhD research in MRI-compatible surgical robotics. Proven track record delivering
+complex mechatronic systems for ASML supply chain at NTS. Experienced in
+EU Horizon 2020 grant writing and cross-disciplinary team leadership.
+
+// [V2] Software Engineer/Architect:
+// Software engineer with deep expertise in C#/.NET and Python, backed by a PhD
+// in surgical robotics requiring real-time control systems. Active open-source
+// contributor (166 repos, 490+ stars on GitHub) and top-2% Stack Overflow user
+// (14k+ reputation). Background in high-precision systems provides unique
+// perspective on software architecture for embedded and enterprise applications.
+
+// [V3] Program Manager:
+// Technical program manager combining PhD-level research leadership with
+// industrial project delivery at NTS (ASML supplier). Experienced in
+// EU Horizon 2020 grant acquisition, multi-stakeholder coordination, and
+// translating complex R&D into production-ready systems. Strong background
+// in systems engineering and cross-functional team management.
+// -----------------------------------------------------------------------------
+
+== Core Competencies
+
+// --- VARIANT COMPETENCIES ----------------------------------------------------
+// [V1]:
+Systems Architecture · Mechatronics Design · Surgical Robotics ·
+MRI Compatibility · Pneumatic Actuation · Additive Manufacturing ·
+ASML/Semiconductor Tooling · EU Grant Writing · V&V · Siemens NX · C#/.NET · Python
+
+// [V2]:
+// C#/.NET · Python · Software Architecture · Real-Time Control Systems ·
+// REST APIs · Git/CI-CD · Open Source Development · Numerical Computing ·
+// Embedded Software · Agile/Scrum · Technical Documentation
+
+// [V3]:
+// Program Management · R&D Strategy · Stakeholder Management ·
+// EU Horizon 2020 Grants · Risk Management · Cross-Functional Teams ·
+// Systems Engineering · Budget Planning · Agile/Waterfall · Technical Roadmapping
+// -----------------------------------------------------------------------------
+
+'''
+
+== Professional Experience
+
+=== System Lead Engineer — NTS D&E (Norma), Hengelo
+_ASML supplier — high-precision manufacturing_ | 20XX–Present
+
+// --- VARIANT BULLETS (pick 3-4 most relevant) --------------------------------
+// [V1]:
+* Led system-level design and integration of precision modules for ASML lithography equipment, managing requirements across mechanical, electrical, and software domains.
+* Drove verification & validation processes for high-precision assemblies with sub-micron tolerances.
+* Authored technical specifications and coordinated with cross-disciplinary engineering teams.
+
+// [V2]:
+// * Developed C#/.NET tooling and automation software for production test systems in semiconductor equipment supply chain.
+// * Architected software interfaces between mechanical design (Siemens NX) and manufacturing execution systems.
+// * Implemented Python-based data analysis pipelines for quality monitoring.
+
+// [V3]:
+// * Managed end-to-end delivery of precision module programs, coordinating mechanical, electrical, and software workstreams.
+// * Owned project schedules, risk registers, and stakeholder communication for ASML-facing deliverables.
+// * Drove continuous improvement initiatives across the engineering workflow.
+// -----------------------------------------------------------------------------
+
+=== PhD Researcher — Surgical Robotics, University of Twente
+_MRI-Compatible Robotic Systems_ | 20XX–20XX
+
+// [V1]:
+* Designed and prototyped MRI-compatible surgical robots using novel pneumatic actuation (PneuAct series).
+* Published in IEEE ICRA and RA-L; filed patent on MRI-compatible robotic architecture.
+* Secured EU Horizon 2020 funding as part of multi-institution research consortium.
+
+// [V2]:
+// * Developed real-time control software in C#/.NET and Python for pneumatic surgical robot prototypes.
+// * Built simulation and data acquisition systems; integrated sensors with custom control loops.
+// * Created open-source tools and libraries supporting the research (GitHub contributions).
+
+// [V3]:
+// * Managed multi-year research program with international collaborators across 4 institutions.
+// * Led EU Horizon 2020 grant writing and reporting; managed research budget and milestones.
+// * Coordinated clinical requirements with Radboudumc stakeholders for translational research.
+
+'''
+
+== Education
+
+*PhD, Surgical Robotics* — University of Twente, Netherlands | 20XX +
+*MSc, Mechanical Engineering* — Amirkabir University of Technology, Tehran | 20XX +
+*BSc, Mechanical Engineering* — Amirkabir University of Technology, Tehran | 20XX
+
+'''
+
+== Selected Highlights
+
+* *Patent:* MRI-compatible surgical robot architecture (NL/EU filing).
+* *Publications:* 5+ peer-reviewed papers in IEEE ICRA, RA-L, and related venues.
+// [V1] add: * *Grants:* EU Horizon 2020 consortium member; experienced in WBSO applications.
+// [V2] add: * *Open Source:* 166 GitHub repos, 490+ stars; top-2% Stack Overflow (14k+ rep, 19 gold badges).
+// [V3] add: * *Leadership:* Led cross-functional teams of 5–10 across academic and industrial settings.
+
+'''
+
+== Technical Skills
+
+[cols="1,4",frame=none,grid=none]
+|===
+|*Languages:*   |C#, Python, Fortran, MATLAB
+|*Platforms:*    |.NET, Git, Linux, Windows
+|*Engineering:*  |Siemens NX, SolidWorks, ANSYS, OpenFOAM
+|*Other:*        |LaTeX, Technical Writing, Dutch (basic), English (fluent), Persian (native)
+|===

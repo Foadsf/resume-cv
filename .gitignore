@@ -1,0 +1,25 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.toc
+
+# Compiled PDFs (rebuild with build.cmd)
+*.pdf
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/

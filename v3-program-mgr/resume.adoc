@@ -1,0 +1,82 @@
+= Foad S. Farimani, PhD
+:doctype: article
+:icons: font
+:nofooter:
+
+_Technical Program Manager | R&D Leadership & Systems Delivery | Dutch Citizen_
+
+[.small]
+Apeldoorn, Netherlands | +31 614685010 |
+mailto:f.s.farimani@gmail.com[] |
+https://linkedin.com/in/fsfarimani[LinkedIn] |
+https://github.com/Foadsf[GitHub] |
+https://stackoverflow.com/users/4999991[Stack Overflow (14k+)]
+
+'''
+
+== Professional Summary
+
+Technical program manager with PhD-level research leadership and industrial project delivery in ASML's Tier-1 supply chain. Led cross-functional teams at NTS and VDL ETG, chaired competence groups, and drove research funding initiatives (Horizon Europe, NXTGEN). Secured €4.5M+ in grants across surgical robotics and semiconductor R&D programs. Strong systems engineering background.
+
+== Core Competencies
+
+Program Management · R&D Strategy · Stakeholder Management · Horizon Europe / NXTGEN · Risk Management · Cross-Functional Teams · Systems Engineering · Budget Management · Competence Leadership · V-Model / Agile
+
+'''
+
+== Professional Experience
+
+=== System Lead Engineer — NTS D&E (Norma), Hengelo
+_Tier-1 ASML supplier_ | Mar 2022–Present
+
+* Managed cross-functional engineering teams delivering advanced tooling for ASML DUV NXT and EUV NXE/EXE programs.
+* Led Research Funding Initiative evaluating Horizon Europe and Nationaal Groeifonds NXTGEN opportunities.
+* Chaired Surface Treatment Competence; member of ASML Technology Angel Team for strategic business roadmap.
+* Drove continuous improvement initiatives and concurrent engineering processes.
+
+=== Lead Mechanical Engineer — VDL ETG T&D, Hengelo
+_ASML supplier — precision opto-mechanical systems_ | Jul 2020–Feb 2022
+
+* Designed opto-mechanical modules for ASML YieldStar 500 metrology system.
+* Led engineering for EXE5000 cable slab module tooling and NXE3800 thermo-mechanical module.
+
+=== Doctoral Candidate & Researcher — University of Twente, Enschede
+_MRI-Compatible Surgical Robotics_ | Aug 2014–Mar 2020
+
+* Managed multi-year research program with international collaborators across 4 institutions.
+* Secured €120K+ in grants (PneuARMM €70K, PanoSurg €50K); contributed to €4.5M MURAB consortium.
+* Supervised MSc/BSc students; coordinated clinical requirements with hospital partners (MST, ZGT).
+
+=== Researcher — TU Eindhoven
+_MRI-guided minimally invasive surgical robots_ | Aug 2012–Feb 2014
+
+* System design of MRI-guided robots; applied biomimicry to patient-mounted mechanisms.
+
+'''
+
+== Education
+
+*MSc, Biomedical Engineering* — Amirkabir University of Technology, Tehran | 2006–2009 +
+Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_
+
+*BSc, Mechanical Engineering* — Sharif University of Technology, Tehran | 2000–2006
+
+'''
+
+== Key Achievements
+
+* *Grants:* PneuARMM (€70K), PanoSurg (€50K), MURAB (EU Horizon 2020, €4.5M).
+* *Patents:* MRI-compatible surgery assistant robot; Drug injection smart robot.
+* *Delivery:* Led programs spanning ASML DUV NXT, EUV NXE/EXE, and YieldStar 500 platforms.
+
+'''
+
+== Technical Skills
+
+[cols="1,4",frame=none,grid=none]
+|===
+|*Languages:*  |Python, C#/.NET, C/C++, MATLAB, Fortran
+|*CAD/CAE:*    |Siemens NX, SolidWorks, CATIA, FreeCAD, ANSYS, OpenFOAM
+|*Other:*      |LaTeX, Git, Linux, Modelica, Simulink
+|*Spoken:*     |English (professional), Dutch (A2), Persian (native)
+|===
