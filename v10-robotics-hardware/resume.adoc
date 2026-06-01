@@ -2,50 +2,48 @@
 :doctype: article
 :icons: font
 
-Robotics Hardware Engineer | Novel Actuators · Precision Mechatronics · Design-for-Manufacture
+Systems Engineer & Architect · Hardware Inventor · Robotics & Precision Manufacturing
 
 Apeldoorn, Netherlands | Dutch citizen | +31 614685010 | f.s.farimani@gmail.com | linkedin.com/in/fsfarimani | github.com/Foadsf | https://stackoverflow.com/users/4999991[Stack Overflow]
 
 == Summary
 
-I invent robot hardware and make it real. For my PhD I designed a new class of pneumatic stepper actuator: fully 3D-printed, electromagnetically stealth, 850 RPM, with no metal, no electronics, and no lubrication, and safe to run inside an MRI scanner (two patents, IEEE ICRA and RA-L, featured on Hackaday). Since 2020 I have worked at the sharp end of precision manufacturing for ASML's machines (VDL ETG, then NTS), building the tooling and hardware-in-the-loop rigs that turn the hardest mechanical designs into buildable, validated hardware. Hands-on across the whole stack: mechanism, actuation, sensing, control, test, and manufacture.
+I'm a systems engineer and a lifelong inventor. I filed my first two robotics patents in Iran in my twenties, then designed a robot motor that runs on nothing but air, no metal, no electronics, fast enough to drive a surgical robot inside a live MRI scanner (IEEE ICRA, RA-L, picked up by Hackaday). I bring that blank-page-to-shipped instinct to the world's most demanding precision manufacturing: for ASML's machines I doubled the fatigue life of a critical flexure (credited at ASML's 2024 Technology Conference), chair the surface-treatment competence, and built a research-funding pipeline that opened EU and national R&D programs for the company. I move fluently across CAD, CAE, CAM, and PLM, and I lead the teams that turn ideas into hardware.
 
 == Experience
 
 === System Lead Engineer, NTS D&E, Hengelo
 _Mar 2022-Present_
 
-* Doubled the fatigue life of Inconel 718 flexures by chasing a recurring failure down to its real cause (EDM recast layer) and killing it with the right surface treatment; ASML credited the result at their 2024 Technology Conference.
-* Built the hardware-in-the-loop rig and mockups that validate safety-critical motion-control logic without ever touching production hardware.
-* Own the qualification tooling that decides whether ASML modules pass or fail: automated pressure-decay, particle, electrical, and mechanical checks against hard acceptance criteria.
-* Ran system engineering for the EXE:5200 sensor assembly from design kickoff through release.
+* Doubled the fatigue life of a critical Inconel 718 flexure by hunting a recurring failure down to its root cause in the metallurgy and killing it at the source; ASML credited the result at its 2024 Technology Conference.
+* Built NTS's Research Funding Initiative from nothing: a pipeline linking the company's engineering strengths to EU and Dutch R&D money (Chips JU, Horizon Europe, ChipTech Twente), with ~40 opportunities screened.
+* Chair the Surface Treatment competence, standing up NTS's in-house precision-finishing capability and the supplier network behind it.
+* Run systems engineering and architecture on ASML module programs, from requirements and design reviews through release.
 
 === Lead Mechanical Engineer, VDL ETG T&D
 _Jul 2020-Feb 2022_
 
-* Led a multi-engineer team building ASML's EXE5000 cable-slab integration tooling: fixtures, preforming, molds, and supplier and manufacturability closure.
-* Designed the micron-level leaf-spring mechanics for YieldStar 500 optical fiducials, where stiffness and geometry set the alignment.
-* Worked early-stage bellows and force-decoupler concepts (ATCM/VES): pressure-drop, stiffness, and supplier-data trade-offs.
+* Led a multi-engineer team that cracked the densest cable-and-hose routing problem in ASML's EXE5000, building the integration tooling end to end, from fixtures and molds to supplier and manufacturability sign-off.
+* Designed the precision leaf-spring mechanics behind YieldStar 500's optical fiducials, where microns of stiffness decide whether the metrology hits alignment.
+* Shaped the early VES force-decoupler bellows, the parts that keep a precision stage from shaking itself apart, balancing pressure, stiffness, and what suppliers could actually build.
 
 === PhD Researcher, Surgical Robotics, University of Twente
 _2016-2020_
 
-* Invented and built a new class of MRI-compatible pneumatic stepper actuator: fully 3D-printed, electromagnetically stealth, 850 RPM, no bearings or seals.
-* Designed and prototyped patient-mounted surgical robots with their sensing and control, validated on custom test benches.
-* Two robotics patents; published at IEEE ICRA and RA-L; work featured on Hackaday and U-Today.
+* Invented PneuAct: a 3D-printed pneumatic stepper motor with no metal and no electronics, running at 850 RPM safely inside an MRI scanner. Published at IEEE ICRA and RA-L; featured on Hackaday and U-Today.
+* Designed and prototyped patient-mounted surgical robots end to end: mechanism, actuation, sensing, and control.
+* Delivered research inside the EU's EUR 4.34M MURAB consortium (robotic MRI and ultrasound biopsy), plus the PneuARMM and PanoSurg grants.
 
 == Education
 
-*PhD, Surgical Robotics* | University of Twente, Enschede | 2016-2020
-
-*MSc, Biomedical Engineering* | Amirkabir University of Technology, Tehran | 2006-2009
-
+*PhD, Surgical Robotics* | University of Twente, Enschede | 2016-2020 +
+*MSc, Biomedical Engineering* | Amirkabir University of Technology, Tehran | 2006-2009 +
 *BSc, Mechanical Engineering* | Sharif University of Technology, Tehran | 2000-2006
 
 == Technical Skills
 
-Robotics & actuation:: Novel actuator and mechanism design, pneumatic stepper actuators, compliant mechanisms, patient-mounted robots, sensing, motion control
-Hardware & manufacturing:: Precision mechanics, design-for-manufacture, fixtures, molds, integration tooling, supplier and manufacturability closure, rapid prototyping, 3D printing
-Test & validation:: Hardware-in-the-loop, qualification tooling, pressure decay, particle and acceptance testing
-Software:: Python, C#/.NET, MATLAB, Git, data analysis
-CAD/CAE:: Siemens NX, SolidWorks, CATIA, ANSYS/APDL
+Systems engineering:: Architecture, requirements, interfaces, MBSE, design reviews (PDR/CDR), V&V, configuration and release
+Design & PLM:: CAD (Siemens NX, SolidWorks, CATIA), CAE/FEM (ANSYS/APDL), CAM, PLM/PDM
+Robotics & hardware:: Novel actuator and mechanism design, pneumatic actuation, compliant mechanisms, sensing, motion control, rapid prototyping, 3D printing
+Manufacturing:: Design-for-manufacture, precision tooling, fixtures and molds, surface treatment, supplier and manufacturability closure
+Leadership:: Team and competence leadership, R&D funding strategy, stakeholder alignment
