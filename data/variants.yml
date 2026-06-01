@@ -1,0 +1,52 @@
+{
+  "variants": [
+    {
+      "id": "v1-systems-rd",
+      "status": "existing",
+      "target_roles": ["System Architect", "R&D Manager", "Engineering Lead"],
+      "lead_evidence": ["nts_epin_fatigue_2x", "nts_qtool_family", "nts_scfs_sensor_assembly", "nts_rfi", "murab_consortium"]
+    },
+    {
+      "id": "v2-software",
+      "status": "existing",
+      "target_roles": ["C#/.NET Developer", "Software Engineer", "Software Architect for engineering tools"],
+      "lead_evidence": ["nts_safety_plc_emulator", "nts_qtool_family"]
+    },
+    {
+      "id": "v3-program-mgr",
+      "status": "existing",
+      "target_roles": ["Technical Program Manager", "Project Manager", "Innovation Program Lead"],
+      "lead_evidence": ["nts_rfi", "nts_qtool_family", "nts_surface_treatment_team"]
+    },
+    {
+      "id": "v4-mechanical-lead",
+      "status": "implemented",
+      "target_roles": ["Lead Mechanical Engineer", "Senior Mechanical Engineer", "Precision Mechanics Lead", "Tooling Lead"],
+      "lead_evidence": ["vdl_cable_slab_tooling", "vdl_ys500_fiducial_mechanics", "vdl_nxe3800_heat_shields", "nts_epin_fatigue_2x"]
+    },
+    {
+      "id": "v5-mechatronics-systems",
+      "status": "implemented",
+      "target_roles": ["Mechatronics System Engineer", "System Integration Engineer", "Test/Validation System Engineer", "HIL/Test Architect"],
+      "lead_evidence": ["nts_qtool_family", "nts_safety_plc_emulator", "nts_scfs_sensor_assembly", "publications_patents"]
+    },
+    {
+      "id": "v6-surface-treatment-materials",
+      "status": "planned",
+      "target_roles": ["Surface Treatment Engineer", "Materials/Process Engineer", "Manufacturing Innovation Lead"],
+      "lead_evidence": ["nts_epin_fatigue_2x", "nts_surface_treatment_team"]
+    },
+    {
+      "id": "v7-semiconductor-equipment",
+      "status": "planned",
+      "target_roles": ["Semiconductor Equipment Engineer", "Supplier Technical Lead", "Product Development Engineer"],
+      "lead_evidence": ["nts_qtool_family", "nts_epin_fatigue_2x", "nts_scfs_sensor_assembly", "vdl_cable_slab_tooling"]
+    },
+    {
+      "id": "v8-rd-innovation-manager",
+      "status": "planned",
+      "target_roles": ["R&D Manager", "Innovation Manager", "Research Funding Manager"],
+      "lead_evidence": ["nts_rfi", "nts_surface_treatment_team", "murab_consortium"]
+    }
+  ]
+}

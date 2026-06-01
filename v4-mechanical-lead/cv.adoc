@@ -1,0 +1,58 @@
+= Foad S. Farimani, PhD -- Lead Mechanical Engineer CV
+:doctype: article
+:icons: font
+
+Lead Mechanical Engineer | Precision Mechanics, Tooling & Semiconductor Equipment
+
+Apeldoorn, Netherlands | Dutch citizen | +31 614685010 | f.s.farimani@gmail.com | linkedin.com/in/fsfarimani | github.com/Foadsf
+
+== Professional Profile
+
+Lead Mechanical Engineer who turns ambiguous hardware problems into released, production-qualified designs for ASML lithography modules. At NTS D&E and VDL ETG T&D, delivered EXE5000 wafer stage cable slab tooling, YieldStar 500 fiducial mechanics, NXE3800 heat shields, EXE:5000 E-pin fatigue resolution, qualification tooling, cooling plates, and sensor assembly coordination.
+
+== Selected Mechanical Case Studies
+
+[cols="1,3",options="header"]
+|===
+| Case | Contribution
+| EXE5000 Wafer-Stage Cable-Slab Tooling | Led tooling workstreams across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+| YieldStar 500 Fiducials | Developed precision-mechanics concepts and calculation packages for fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and tolerance-sensitive optical/mechatronic interfaces.
+| NXE3800 Heat Shields | Supported NXE3800 heat-shield maturity through thermal, flow, bolt, defectivity, review, and release-documentation questions.
+| EXE:5000 E-pin Fatigue | Resolved a fatigue life risk in Inconel 718 folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs.
+|===
+
+== Professional Experience
+
+=== System Lead Engineer -- NTS D&E (Norma), Hengelo
+_Mar 2022-Present_
+
+* Owned ASML module tooling workstreams covering M90 glue tooling, EXE:5000 cooling plates, qualification tooling, and EXE:5200 sensor assembly release coordination.
+* Resolved a fatigue life risk in Inconel 718 E-pin folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs.
+* Chaired the Surface Treatment team and mapped supplier and process options for electropolishing, plasma polishing, passivation, acid etching, and precision cleaning.
+
+=== Lead Mechanical Engineer -- VDL ETG T&D
+_Jul 2020-Feb 2022_
+
+* Led mechanical engineering workstreams for EXE5000 wafer stage cable slab integration tooling in a dense cable/hose assembly context.
+* Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces.
+* Supported NXE3800 heat-shield maturity through thermal, flow, bolt, defectivity, review, and release-documentation questions.
+* Contributed early-stage concept work around guiding systems, bellows behavior, pressure drop, and force-decoupler stiffness interpretation.
+
+=== PhD Researcher -- University of Twente
+_Aug 2014-Mar 2020_
+
+* Designed MRI-compatible pneumatic actuators and patient-mounted robotic concepts using mechanical design, rapid prototyping, sensing, and experimental validation.
+* Contributed to the EU Horizon 2020 MURAB consortium on MRI and ultrasound robotic assisted biopsy, with a EUR 4.34M project budget.
+
+== Skills
+
+Precision mechanics:: Leaf springs, compliant interfaces, fiducials, tooling, fixtures, molds, cleanroom handling, tolerance-sensitive assemblies
+Analysis:: Stiffness checks, bolt questions, thermal/flow reasoning, fatigue-root cause analysis, pressure-drop interpretation
+Semiconductor context:: ASML NXT/NXE/EXE, YieldStar 500, qualification tooling, PDR/CDR/PIR, TPD/PMI, 12NC/BOM awareness
+Tools:: Siemens NX, SolidWorks, CATIA, ANSYS/APDL context, MATLAB, Python, C#/.NET, Git, LaTeX
+
+== Education
+
+* PhD -- University of Twente, Enschede, 2016--2020
+* MSc, Biomedical Engineering -- Amirkabir University of Technology, Tehran, 2006-2009
+* BSc, Mechanical Engineering -- Sharif University of Technology, Tehran, 2000-2006

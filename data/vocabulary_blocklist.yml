@@ -1,0 +1,42 @@
+{
+  "forbidden_phrases": [
+    "groundbreaking",
+    "pioneering",
+    "visionary",
+    "world-class",
+    "cutting-edge",
+    "synergy",
+    "transformational",
+    "dynamic professional",
+    "innovative solutions",
+    "technical concept related to",
+    "evidence spans",
+    "strongest evidence",
+    "selected evidence",
+    "selected systems and mechatronics evidence",
+    "the strongest evidence comes",
+    "validation evidence",
+    "verified engineering evidence",
+    "evidence-controlled",
+    "adoption claims",
+    "contribution scope should remain",
+    "keeping adoption claims",
+    "conservative and transparent",
+    "habits around"
+  ],
+  "weak_verbs": [
+    "helped",
+    "worked on",
+    "involved in",
+    "participated in",
+    "responsible for"
+  ],
+  "overclaim_verbs_requiring_evidence": [
+    "secured",
+    "owned",
+    "architected",
+    "founded",
+    "invented",
+    "pioneered"
+  ]
+}

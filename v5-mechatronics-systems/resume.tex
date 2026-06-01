@@ -1,0 +1,94 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=0.55in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{tabularx}
+
+\definecolor{accent}{HTML}{1A5276}
+\hypersetup{colorlinks=true,urlcolor=accent,linkcolor=accent}
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{6pt}{4pt}
+\setlist[itemize]{nosep,left=0pt,label=\textbullet,topsep=2pt}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Foad S. Farimani, PhD} \\[3pt]
+  {\small Mechatronics System Engineer\enspace$\mid$\enspace Test \& Validation Tooling\enspace$\mid$\enspace Hardware/Software Interfaces}
+  \\[3pt]
+  {\footnotesize
+    Apeldoorn, Netherlands\enspace$\mid$\enspace
+    Dutch citizen\enspace$\mid$\enspace
+    +31\,614685010\enspace$\mid$\enspace
+    \href{mailto:f.s.farimani@gmail.com}{f.s.farimani@gmail.com}\enspace$\mid$\enspace
+    \href{https://linkedin.com/in/fsfarimani}{LinkedIn}\enspace$\mid$\enspace
+    \href{https://github.com/Foadsf}{GitHub}\enspace$\mid$\enspace
+    \href{https://stackoverflow.com/users/4999991}{Stack Overflow}
+  }
+\end{center}
+
+\section{Professional Summary}
+Mechatronics engineer who connects mechanical design, sensors, test hardware, and software behavior into validated production tooling for ASML lithography modules. Owns qualification tooling workstreams and Safety PLC Emulator validation at NTS; PhD background in MRI-compatible pneumatic surgical robotics with real-time control and experimental validation.
+
+\section{Selected Highlights}
+\begin{itemize}
+  \item Owned qualification tooling workstreams for ASML modules, connecting pressure decay, particle validation, electrical and mechanical checks, HMI behavior, and acceptance criteria.
+  \item Bridged mockup design, hardware-in-the-loop testing, and software validation needs in the Safety PLC Emulator workstream.
+  \item Designed MRI-compatible pneumatic actuators and patient-mounted robotic concepts using mechanical design, rapid prototyping, sensing, and experimental validation.
+\end{itemize}
+
+\section{Professional Experience}
+
+\textbf{System Lead Engineer} \hfill NTS D\&E (Norma), Hengelo \\
+{\small\textit{Tier-1 ASML supplier -- high-precision manufacturing systems}} \hfill {\small Mar 2022--Present}
+\begin{itemize}
+  \item Owned qualification tooling workstreams covering pressure decay, particle validation, electrical/mechanical checks, HMI behavior, and Golden Sample calibration.
+  \item Performed system engineering for the EXE:5200 sensor assembly, including design kickoff, part-numbering, and release-planning coordination.
+  \item Bridged mockup design, hardware-in-the-loop testing, and software validation needs in the Safety PLC Emulator workstream.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Lead Mechanical Engineer} \hfill VDL ETG T\&D \\
+{\small\textit{Precision mechanics, tooling, and ASML equipment development}} \hfill {\small Jul 2020--Feb 2022}
+\begin{itemize}
+  \item Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and CAD-facing design decisions.
+  \item Led EXE5000 wafer stage cable slab integration tooling workstreams across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+  \item Interpreted bellows, pressure-drop, stiffness, and force-decoupler behavior for early-stage ATCM/VES mechanical concepts.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{PhD Researcher} \hfill University of Twente / TU Eindhoven \\
+{\small\textit{MRI-compatible surgical robotics and pneumatic actuation}} \hfill {\small Aug 2012--Mar 2020}
+\begin{itemize}
+  \item Designed and tested MRI-compatible pneumatic stepper actuators, patient-mounted robot concepts, sensor interfaces, and experimental setups.
+  \item Authored peer-reviewed work on MRI-compatible pneumatic actuation and holds patents on MRI-compatible surgery assistant and drug-injection robot concepts.
+  \item Contributed to the EU Horizon 2020 MURAB consortium on MRI and ultrasound robotic assisted biopsy, with a EUR 4.34M project budget.
+\end{itemize}
+
+\section{Education}
+
+\textbf{PhD} --- University of Twente, Enschede \hfill 2016--2020 \\
+{\small Surgical Robotics Laboratory } \\[2pt]
+\textbf{MSc, Biomedical Engineering} --- Amirkabir University of Technology, Tehran \hfill 2006--2009 \\
+{\small Thesis: Design and prototyping of MRI/CT compatible robot for minimally invasive interventions} \\[2pt]
+\textbf{BSc, Mechanical Engineering} --- Sharif University of Technology, Tehran \hfill 2000--2006
+
+\section{Technical Skills}
+{\small
+\begin{tabularx}{\textwidth}{@{}lX@{}}
+  \textbf{Systems:} & Requirements, interfaces, validation rationale, acceptance criteria, system decomposition, MBSE literacy \\
+  \textbf{Test tooling:} & Qualification tooling, pressure decay, particle validation, Golden Sample calibration, HMI behavior, HIL/mockup thinking \\
+  \textbf{Mechatronics:} & Sensors, pneumatic actuation, compliant mechanisms, precision mechanics, control-oriented experiments \\
+  \textbf{Software:} & C\#/.NET/WPF, Python, MATLAB, Git, NXOpen context, data analysis, technical documentation \\
+  \textbf{CAD/CAE:} & Siemens NX, SolidWorks, CATIA, ANSYS/APDL context, rapid prototyping \\
+\end{tabularx}
+}
+
+\end{document}

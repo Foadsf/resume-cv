@@ -1,0 +1,60 @@
+extends: default
+font:
+  catalog:
+    merge: true
+    Latin Modern Roman:
+      normal: fonts/lmroman10-regular.ttf
+      bold: fonts/lmroman10-bold.ttf
+      italic: fonts/lmroman10-italic.ttf
+      bold_italic: fonts/lmroman10-bolditalic.ttf
+page:
+  background-color: FDFDFB
+  margin: [0.31in, 0.36in, 0.31in, 0.36in]
+base:
+  font-family: Latin Modern Roman
+  font-color: 263238
+  border-color: C8D8DD
+  border-width: 0.45
+  font-size: 7.85
+  line-height: 1.03
+heading:
+  font-color: 153E52
+  font-style: bold
+  h1-font-size: 13.2
+  h2-font-size: 9.3
+  h3-font-size: 8.4
+  line-height: 1
+  margin-bottom: 2
+  margin-top: 3.8
+title-page:
+  display: none
+link:
+  font-color: 1F6F78
+list:
+  indent: 8.5
+  item-spacing: 0.4
+  marker-font-color: B86B35
+table:
+  font-size: 7.15
+  border-color: D6E1E5
+  grid-color: E3EAED
+  cell-padding: [1.4, 2.4, 1.4, 2.4]
+  head:
+    background-color: EAF3F5
+    font-color: 153E52
+    font-style: bold
+  body:
+    stripe-background-color: F6FAFA
+description-list:
+  term-font-style: bold
+  term-font-color: 153E52
+  term-spacing: 0.5
+  description-indent: 8
+thematic-break:
+  border-color: B86B35
+  border-width: 0.6
+role:
+  small:
+    font-color: 52656D
+footer:
+  height: 0

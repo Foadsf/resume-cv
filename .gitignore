@@ -10,6 +10,8 @@
 *.blg
 *.run.xml
 *.toc
+.miktex/
+**/.miktex/
 
 # Compiled PDFs (rebuild with build.cmd)
 *.pdf
@@ -23,3 +25,12 @@ Thumbs.db
 *.swo
 *~
 .vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Private evidence ledger — full version with local source paths + internal notes
+# (public repo ships only the sanitized data/claims.yml)
+data/claims.private.yml

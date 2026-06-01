@@ -1,0 +1,55 @@
+= Foad S. Farimani, PhD
+:doctype: article
+:icons: font
+
+Lead Mechanical Engineer | Precision Mechanics & Tooling | Semiconductor Equipment
+
+Apeldoorn, Netherlands | Dutch citizen | +31 614685010 | f.s.farimani@gmail.com | linkedin.com/in/fsfarimani | github.com/Foadsf
+
+== Professional Summary
+
+Lead Mechanical Engineer who turns ambiguous hardware problems into released, production-qualified designs for ASML lithography modules. Track record in precision tooling, compliant mechanisms, thermal shielding, and surface treatment-driven fatigue improvement — from first concept through supplier alignment, review closure, and production release.
+
+== Selected Highlights
+
+* Led EXE5000 wafer stage cable slab integration tooling workstreams across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+* Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and tolerance-sensitive optical/mechatronic interfaces.
+* Resolved a fatigue life risk in Inconel 718 folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs.
+
+== Professional Experience
+
+=== System Lead Engineer -- NTS D&E (Norma), Hengelo
+_Mar 2022-Present_
+
+* Owned ASML module tooling workstreams covering M90 glue tooling, EXE:5000 cooling plates, qualification tooling, and EXE:5200 sensor assembly release coordination.
+* Chaired the Surface Treatment team and mapped supplier and process options for electropolishing, plasma polishing, passivation, acid etching, and precision cleaning.
+* Standardized ASTM A380/A967 passivation route for YieldStar 500 Z-stage stainless-steel flexures and reduced surface-defect rework risk.
+
+=== Lead Mechanical Engineer -- VDL ETG T&D
+_Jul 2020-Feb 2022_
+
+* Led mechanical engineering workstreams for EXE5000 wafer stage cable slab integration tooling in a dense cable/hose assembly context.
+* Supported NXE3800 heat-shield maturity through thermal, flow, bolt, defectivity, review, and release-documentation questions.
+* Delivered CAD package analysis, stiffness checks, tolerance-sensitive interfaces, supplier input, cleanroom handling, and PDR/CDR/PIR/TPD/PMI documentation.
+
+=== PhD Researcher -- University of Twente / TU Eindhoven
+_Aug 2012-Mar 2020_
+
+* Designed MRI-compatible pneumatic actuators and patient-mounted robotic concepts using mechanical design, rapid prototyping, sensing, and experimental validation.
+* Authored peer-reviewed work on MRI-compatible pneumatic actuation and holds patents on MRI-compatible surgery assistant and drug-injection robot concepts.
+
+== Education
+
+*PhD* — University of Twente, Enschede | 2016–2020
+
+*MSc, Biomedical Engineering* -- Amirkabir University of Technology, Tehran | 2006–2009 +
+Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_
+
+*BSc, Mechanical Engineering* -- Sharif University of Technology, Tehran | 2000–2006
+
+== Technical Strengths
+
+Mechanical:: Precision tooling, compliant mechanisms, leaf springs, fixture/mold concepts, cleanroom handling, bolt/stiffness checks
+Semiconductor:: ASML NXT/NXE/EXE context, YieldStar 500, qualification tooling, PDR/CDR/PIR, TPD/PMI, 12NC/BOM awareness
+Methods:: Requirements interpretation, design review closure, supplier/manufacturing alignment, validation rationale
+Tools:: Siemens NX, SolidWorks, CATIA, ANSYS/APDL context, MATLAB, Python, C#/.NET, Git, LaTeX

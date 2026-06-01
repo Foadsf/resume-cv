@@ -5,70 +5,45 @@
 
 _Software Engineer / Architect | C#/.NET, Python | Open Source Contributor (14k+ SO, 490+ GitHub★)_
 
-[.small]
-Apeldoorn, Netherlands | +31 614685010 |
-mailto:f.s.farimani@gmail.com[] |
-https://linkedin.com/in/fsfarimani[LinkedIn] |
-https://github.com/Foadsf[GitHub] |
-https://stackoverflow.com/users/4999991[Stack Overflow (14k+)]
-
-'''
+Apeldoorn, Netherlands | Dutch citizen | +31 614685010 | mailto:f.s.farimani@gmail.com[] | https://linkedin.com/in/fsfarimani[LinkedIn] | https://github.com/Foadsf[GitHub] | https://stackoverflow.com/users/4999991[Stack Overflow]
 
 == Professional Summary
 
-Software engineer combining C\#/.NET and Python expertise with deep systems knowledge from PhD research and ASML supply chain engineering. Active open-source contributor (166 repos, 490+ stars on GitHub) and top-3% Stack Overflow user (14k+ reputation, 19 gold badges). Built real-time control software for surgical robots and NXOpen automation tools used in the semiconductor industry.
+Software engineer who writes production C#/.NET tooling and Python analysis pipelines for ASML's semiconductor supply chain — and previously built real-time control software for MRI-compatible surgical robots. Top-3% Stack Overflow contributor (14k+ reputation) with 166 GitHub repositories and 490+ stars.
 
 == Core Competencies
 
 C#/.NET / WPF / XAML · Python (NumPy, SciPy, Jupyter) · Software Architecture · NXOpen Automation · Real-Time Control · Git / CI-CD · Open Source · Numerical Computing · C/C++ · MATLAB/Simulink · Technical Documentation
-
-'''
 
 == Professional Experience
 
 === System Lead Engineer — NTS D&E (Norma), Hengelo
 _Tier-1 ASML supplier_ | Mar 2022–Present
 
-* Developed C#/.NET tooling and automation software for ASML DUV/EUV production test systems.
-* Built Python-based analysis pipelines for fatigue performance, precision engineering, and heat transfer.
-* Automated engineering workflows integrating Siemens NX with manufacturing execution systems.
+* Bridged mockup design, hardware-in-the-loop testing, and software validation needs in the Safety PLC Emulator workstream.
+* Supported qualification tooling workstreams connecting pressure decay, particle validation, electrical/mechanical checks, HMI behavior, and acceptance criteria.
+* Built Python and C# analysis workflows for fatigue calculations, precision-engineering checks, and NXOpen/CAD automation.
 
 === Lead Mechanical Engineer — VDL ETG T&D, Hengelo
 _ASML supplier — precision opto-mechanical systems_ | Jul 2020–Feb 2022
 
-* Designed opto-mechanical modules for ASML YieldStar 500 metrology system.
-* Led engineering for EXE5000 cable slab module tooling and NXE3800 thermo-mechanical module.
+* Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and CAD-facing design decisions.
+* Led EXE5000 wafer stage cable slab integration tooling workstreams, keeping CAD interfaces, supplier feedback, and manufacturability constraints visible.
 
-=== Doctoral Candidate & Researcher — University of Twente, Enschede
-_MRI-Compatible Surgical Robotics_ | Aug 2014–Mar 2020
+=== PhD Researcher — University of Twente, Enschede
+_MRI-compatible Surgical Robotics_ | Aug 2014–Mar 2020
 
-* Built real-time control software in C#/.NET and Python for pneumatic surgical robot prototypes.
-* Developed simulation, data acquisition, and sensor integration systems with custom control loops.
-* Created open-source tools and NXOpen automation scripts supporting robotics and manufacturing research.
-
-=== Researcher — TU Eindhoven
-_MRI-guided minimally invasive surgical robots_ | Aug 2012–Feb 2014
-
-* System design of MRI-guided robots; applied biomimicry to patient-mounted mechanisms.
-
-'''
+* Designed and tested MRI-compatible pneumatic stepper actuators, sensor interfaces, experimental setups, and control-oriented prototypes.
+* Authored peer-reviewed work on MRI-compatible pneumatic actuation and contributed open-source engineering code/tutorials.
 
 == Education
+
+*PhD* — University of Twente, Enschede | 2016–2020
 
 *MSc, Biomedical Engineering* — Amirkabir University of Technology, Tehran | 2006–2009 +
 Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_
 
 *BSc, Mechanical Engineering* — Sharif University of Technology, Tehran | 2000–2006
-
-'''
-
-== Key Achievements
-
-* *Grants:* PneuARMM (€70K), PanoSurg (€50K), MURAB (EU Horizon 2020, €4.5M).
-* *Patents:* MRI-compatible surgery assistant robot; Drug injection smart robot.
-* *Open Source:* 166 GitHub repos, 490+ stars; top-3% Stack Overflow (14k+ rep, 19 gold badges).
-
-'''
 
 == Technical Skills
 
