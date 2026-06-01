@@ -2,68 +2,130 @@
   "claims": [
     {
       "id": "vdl_cable_slab_tooling",
-      "public_claim": "Led EXE5000 wafer-stage cable-slab integration tooling workstreams across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.",
-      "allowed_variants": ["v4-mechanical-lead", "v5-mechatronics-systems", "v7-semiconductor-equipment"]
+      "public_claim": "Led EXE5000 cable-slab integration tooling workstreams across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.",
+      "allowed_variants": [
+        "v4-mechanical-lead",
+        "v5-mechatronics-systems",
+        "v7-semiconductor-equipment",
+        "v10-robotics-hardware"
+      ]
     },
     {
       "id": "vdl_ys500_fiducial_mechanics",
       "public_claim": "Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and tolerance-sensitive optical/mechatronic interfaces.",
-      "allowed_variants": ["v4-mechanical-lead", "v5-mechatronics-systems", "v7-semiconductor-equipment"]
+      "allowed_variants": [
+        "v4-mechanical-lead",
+        "v5-mechatronics-systems",
+        "v7-semiconductor-equipment",
+        "v10-robotics-hardware"
+      ]
     },
     {
       "id": "vdl_nxe3800_heat_shields",
       "public_claim": "Supported NXE3800 heat-shield maturity through thermal, flow, bolt, defectivity, review, and release-documentation questions.",
-      "allowed_variants": ["v4-mechanical-lead", "v7-semiconductor-equipment"]
+      "allowed_variants": [
+        "v4-mechanical-lead",
+        "v7-semiconductor-equipment"
+      ]
     },
     {
       "id": "nts_epin_fatigue_2x",
       "public_claim": "Resolved a fatigue-life risk in Inconel 718 E-pin folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs.",
-      "allowed_variants": ["v1-systems-rd", "v4-mechanical-lead", "v6-surface-treatment-materials", "v7-semiconductor-equipment"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v4-mechanical-lead",
+        "v6-surface-treatment-materials",
+        "v7-semiconductor-equipment",
+        "v10-robotics-hardware"
+      ]
     },
     {
       "id": "nts_surface_treatment_team",
       "public_claim": "Chaired the Surface Treatment team and mapped supplier and process options for electropolishing, plasma polishing, passivation, acid etching, and precision cleaning.",
-      "allowed_variants": ["v1-systems-rd", "v3-program-mgr", "v6-surface-treatment-materials", "v8-rd-innovation-manager"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v3-program-mgr",
+        "v6-surface-treatment-materials",
+        "v8-rd-innovation-manager"
+      ]
     },
     {
       "id": "nts_qtool_family",
       "public_claim": "Led and supported qualification-tooling workstreams for ASML modules, connecting pressure decay, particle validation, electrical and mechanical checks, HMI behavior, and acceptance criteria.",
-      "allowed_variants": ["v1-systems-rd", "v3-program-mgr", "v5-mechatronics-systems", "v7-semiconductor-equipment"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v3-program-mgr",
+        "v5-mechatronics-systems",
+        "v7-semiconductor-equipment",
+        "v10-robotics-hardware"
+      ]
     },
     {
       "id": "nts_rfi",
       "public_claim": "Built the NTS Research Funding Initiative concept linking precision-manufacturing competences to EU and Dutch R&D funding programs and evaluated about 40 opportunities.",
-      "allowed_variants": ["v1-systems-rd", "v3-program-mgr", "v8-rd-innovation-manager"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v3-program-mgr",
+        "v8-rd-innovation-manager"
+      ]
     },
     {
       "id": "nts_scfs_sensor_assembly",
       "public_claim": "Performed system engineering for the EXE:5200 SCFS sensor assembly, including design kickoff, part-numbering, and release-planning coordination.",
-      "allowed_variants": ["v1-systems-rd", "v5-mechatronics-systems", "v7-semiconductor-equipment"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v5-mechatronics-systems",
+        "v7-semiconductor-equipment",
+        "v10-robotics-hardware"
+      ]
     },
     {
       "id": "nts_safety_plc_emulator",
       "public_claim": "Bridged mockup design, hardware-in-the-loop testing, and software validation needs in the Safety PLC Emulator workstream.",
-      "allowed_variants": ["v2-software", "v5-mechatronics-systems"]
+      "allowed_variants": [
+        "v2-software",
+        "v5-mechatronics-systems",
+        "v10-robotics-hardware"
+      ]
     },
     {
       "id": "murab_consortium",
       "public_claim": "Contributed to the EU Horizon 2020 MURAB consortium on MRI and ultrasound robotic assisted biopsy, with a EUR 4.34M project budget.",
-      "allowed_variants": ["v1-systems-rd", "v5-mechatronics-systems", "v8-rd-innovation-manager", "v9-medical-robotics-research"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v5-mechatronics-systems",
+        "v8-rd-innovation-manager",
+        "v9-medical-robotics-research",
+        "v10-robotics-hardware"
+      ]
     },
     {
       "id": "pneuarmm_grant",
       "public_claim": "Received a EUR 70K healthcare innovation grant for PneuARMM in collaboration with UT and MST Enschede.",
-      "allowed_variants": ["v1-systems-rd", "v3-program-mgr", "v9-medical-robotics-research"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v3-program-mgr",
+        "v9-medical-robotics-research"
+      ]
     },
     {
       "id": "panosurg_award",
       "public_claim": "Contributed to PanoSurg, a EUR 50K Pioneers in Healthcare award with UT and ZGT Hengelo.",
-      "allowed_variants": ["v1-systems-rd", "v3-program-mgr", "v9-medical-robotics-research"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v3-program-mgr",
+        "v9-medical-robotics-research"
+      ]
     },
     {
       "id": "publications_patents",
       "public_claim": "Authored peer-reviewed work on MRI-compatible pneumatic actuation and holds patents on MRI-compatible surgery assistant and drug-injection robot concepts.",
-      "allowed_variants": ["v1-systems-rd", "v5-mechatronics-systems", "v9-medical-robotics-research"]
+      "allowed_variants": [
+        "v1-systems-rd",
+        "v5-mechatronics-systems",
+        "v9-medical-robotics-research",
+        "v10-robotics-hardware"
+      ]
     }
   ]
 }

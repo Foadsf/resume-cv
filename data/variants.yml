@@ -47,6 +47,12 @@
       "status": "planned",
       "target_roles": ["R&D Manager", "Innovation Manager", "Research Funding Manager"],
       "lead_evidence": ["nts_rfi", "nts_surface_treatment_team", "murab_consortium"]
+    },
+    {
+      "id": "v10-robotics-hardware",
+      "status": "implemented",
+      "target_roles": ["Robotics Hardware Engineer", "Robotics Systems Engineer", "Full-Stack Hardware Engineer", "Manufacturing/Test Engineer (robotics)"],
+      "lead_evidence": ["publications_patents", "murab_consortium", "vdl_cable_slab_tooling", "nts_safety_plc_emulator", "nts_qtool_family", "nts_scfs_sensor_assembly"]
     }
   ]
 }

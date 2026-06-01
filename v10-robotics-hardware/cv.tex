@@ -1,0 +1,98 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=0.6in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{tabularx}
+
+\definecolor{accent}{HTML}{1A5276}
+\hypersetup{colorlinks=true,urlcolor=accent,linkcolor=accent}
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+\setlist[itemize]{nosep,left=0pt,label=\textbullet,topsep=2pt}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+ {\LARGE\bfseries Foad S. Farimani, PhD} \\[3pt]
+ {\small Robotics Hardware \& Systems Engineer\enspace$\mid$\enspace Actuation \& Mechatronics\enspace$\mid$\enspace Design-for-Manufacture \& Test}
+ \\[3pt]
+ {\footnotesize
+  Apeldoorn, Netherlands\enspace$\mid$\enspace
+  Dutch citizen\enspace$\mid$\enspace
+  +31\,614685010\enspace$\mid$\enspace
+  \href{mailto:f.s.farimani@gmail.com}{f.s.farimani@gmail.com}\enspace$\mid$\enspace
+  \href{https://linkedin.com/in/fsfarimani}{LinkedIn}\enspace$\mid$\enspace
+  \href{https://github.com/Foadsf}{GitHub}
+ }
+\end{center}
+
+\section{Professional Profile}
+Hands-on engineer across the full robotics hardware stack, mechanism and actuator design, sensing, control-oriented experiments, and the precision-manufacturing and test tooling that turns prototypes into validated, buildable hardware. PhD in MRI-compatible surgical robotics: designed, built, and experimentally validated novel pneumatic stepper actuators and patient-mounted robots. Since then industrialized robot-grade precision hardware at ASML Tier-1 suppliers (VDL ETG, NTS), integration tooling, qualification tooling, hardware-in-the-loop validation, and design-for-manufacture closure with suppliers.
+
+\section{Professional Experience}
+
+\textbf{System Lead Engineer} \hfill NTS D\&E, Hengelo \\
+{\small\textit{Tier-1 ASML supplier, high-precision manufacturing systems}} \hfill {\small Mar 2022--Present}
+\begin{itemize}
+ \item Led the mockup design and hardware-in-the-loop testing for the Safety PLC Emulator, validating safety-critical PLC logic without production hardware.
+ \item Owned qualification tooling workstreams for ASML modules, connecting pressure decay, particle validation, electrical and mechanical checks, HMI behavior, and acceptance criteria.
+ \item Performed system engineering for the EXE:5200 SCFS sensor assembly, including design kickoff, part-numbering, and release-planning coordination.
+ \item Resolved a fatigue-life risk in Inconel 718 E-pin folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs; recognized at ASML's Technology Conference 2024.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Lead Mechanical Engineer} \hfill VDL ETG T\&D \\
+{\small\textit{Precision mechanics, tooling, and ASML equipment development}} \hfill {\small Jul 2020--Feb 2022}
+\begin{itemize}
+ \item Led EXE5000 cable-slab integration tooling across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+ \item Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and tolerance-sensitive optical/mechatronic interfaces.
+ \item Interpreted bellows, pressure-drop, stiffness, and force-decoupler behavior for early-stage ATCM/VES mechanical concepts.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{PhD Researcher} \hfill University of Twente / TU Eindhoven \\
+{\small\textit{MRI-compatible surgical robotics and pneumatic actuation}} \hfill {\small 2016--2020}
+\begin{itemize}
+ \item Designed and built MRI-compatible pneumatic stepper actuators, patient-mounted robot concepts, sensor interfaces, and experimental setups, validated on custom test benches.
+ \item Contributed to the EU Horizon 2020 MURAB consortium on MRI and ultrasound robotic assisted biopsy, with a EUR 4.34M project budget.
+ \item Authored peer-reviewed work on MRI-compatible pneumatic actuation and holds patents on MRI-compatible surgery assistant and drug-injection robot concepts.
+\end{itemize}
+
+\section{Patents}
+\begin{itemize}
+ \item Patent: "MRI Compatible Surgery Assistant Robot", IR 100300442, 2009.
+ \item Patent: "Drugs Injection Smart Robot", IR 100300872, 2011.
+\end{itemize}
+
+\section{Selected Publications}
+\begin{itemize}
+ \item "PneuAct-II: Hybrid Manufactured Electromagnetically Stealth Pneumatic Stepper Actuator", IEEE Robotics and Automation Letters, 2020, doi:10.1109/LRA.2020.2974714.
+ \item "Introducing PneuAct: Parametrically-Designed MRI-Compatible Pneumatic Stepper Actuator", IEEE ICRA, 2018, doi:10.1109/ICRA.2018.8461116.
+ \item "Frictional characteristics of Fusion Deposition Modeling (FDM) manufactured surfaces", Rapid Prototyping Journal, 2020, doi:10.1108/RPJ-06-2019-0171.
+ \item "Magnetic Resonance Compatible Pneumatic Actuators for Surgical Robotics", PhD thesis, University of Twente.
+\end{itemize}
+
+\section{Skills}
+{\small
+\begin{tabularx}{\textwidth}{@{}lX@{}}
+ \textbf{Robotics \& actuation:} & Mechanism and actuator design, pneumatic stepper actuators, compliant mechanisms, patient-mounted robot kinematics, sensing, control-oriented experiments \\
+ \textbf{Hardware \& manufacturing:} & Precision mechanics, design-for-manufacture, fixtures, molds, integration tooling, supplier and manufacturability closure, rapid prototyping \\
+ \textbf{Test \& validation:} & Hardware-in-the-loop, qualification tooling, pressure decay, particle validation, acceptance criteria \\
+ \textbf{Software:} & Python, C\#/.NET/WPF, MATLAB, Git, data analysis, technical documentation \\
+ \textbf{CAD/CAE:} & Siemens NX, SolidWorks, CATIA, ANSYS/APDL, rapid prototyping \\
+\end{tabularx}
+}
+
+\section{Education}
+\textbf{PhD}, University of Twente, Enschede (Surgical Robotics Laboratory) \hfill 2016--2020 \\[2pt]
+\textbf{MSc, Biomedical Engineering}, Amirkabir University of Technology, Tehran \hfill 2006--2009 \\[2pt]
+\textbf{BSc, Mechanical Engineering}, Sharif University of Technology, Tehran \hfill 2000--2006
+
+\end{document}

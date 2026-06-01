@@ -1,0 +1,52 @@
+= Foad S. Farimani, PhD
+:doctype: article
+:icons: font
+
+Robotics Hardware & Systems Engineer | Actuation & Mechatronics | Design-for-Manufacture & Test
+
+Apeldoorn, Netherlands | Dutch citizen | +31 614685010 | f.s.farimani@gmail.com | linkedin.com/in/fsfarimani | github.com/Foadsf | https://stackoverflow.com/users/4999991[Stack Overflow]
+
+== Professional Summary
+
+Hands-on engineer across the full robotics hardware stack, mechanism and actuator design, sensing, control-oriented experiments, and the precision-manufacturing and test tooling that turns prototypes into validated, buildable hardware. PhD in MRI-compatible surgical robotics: designed, built, and experimentally validated novel pneumatic stepper actuators and patient-mounted robots (two patents, IEEE ICRA and RA-L publications). Since then industrialized robot-grade precision hardware at ASML Tier-1 suppliers (VDL ETG, NTS), owning integration tooling, qualification tooling, and hardware-in-the-loop validation.
+
+== Professional Experience
+
+=== System Lead Engineer, NTS D&E, Hengelo
+_Mar 2022-Present_
+
+* Led the mockup design and hardware-in-the-loop testing for the Safety PLC Emulator, validating safety-critical PLC logic without production hardware.
+* Owned qualification tooling workstreams for ASML modules, connecting pressure decay, particle validation, electrical and mechanical checks, HMI behavior, and acceptance criteria.
+* Performed system engineering for the EXE:5200 SCFS sensor assembly, including design kickoff, part-numbering, and release-planning coordination.
+* Resolved a fatigue-life risk in Inconel 718 E-pin folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs; recognized at ASML's Technology Conference 2024.
+
+=== Lead Mechanical Engineer, VDL ETG T&D
+_Jul 2020-Feb 2022_
+
+* Led EXE5000 cable-slab integration tooling across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+* Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and tolerance-sensitive optical/mechatronic interfaces.
+* Interpreted bellows, pressure-drop, stiffness, and force-decoupler behavior for early-stage ATCM/VES mechanical concepts.
+
+=== PhD Researcher, University of Twente / TU Eindhoven
+_2016-2020_
+
+* Designed and built MRI-compatible pneumatic stepper actuators, patient-mounted robot concepts, sensor interfaces, and experimental setups, validated on custom test benches.
+* Contributed to the EU Horizon 2020 MURAB consortium on MRI and ultrasound robotic assisted biopsy, with a EUR 4.34M project budget.
+* Authored peer-reviewed work on MRI-compatible pneumatic actuation and holds patents on MRI-compatible surgery assistant and drug-injection robot concepts.
+
+== Education
+
+*PhD*, University of Twente, Enschede (Surgical Robotics Laboratory) | 2016-2020
+
+*MSc, Biomedical Engineering*, Amirkabir University of Technology, Tehran | 2006-2009 +
+Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_
+
+*BSc, Mechanical Engineering*, Sharif University of Technology, Tehran | 2000-2006
+
+== Technical Skills
+
+Robotics & actuation:: Mechanism and actuator design, pneumatic stepper actuators, compliant mechanisms, patient-mounted robot kinematics, sensing, control-oriented experiments
+Hardware & manufacturing:: Precision mechanics, design-for-manufacture, fixtures, molds, integration tooling, supplier and manufacturability closure, rapid prototyping
+Test & validation:: Hardware-in-the-loop, qualification tooling, pressure decay, particle validation, acceptance criteria
+Software:: Python, C#/.NET/WPF, MATLAB, Git, data analysis, technical documentation
+CAD/CAE:: Siemens NX, SolidWorks, CATIA, ANSYS/APDL, rapid prototyping

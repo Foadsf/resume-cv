@@ -9,7 +9,7 @@ Apeldoorn, Netherlands | Dutch citizen | +31 614685010 | mailto:f.s.farimani@gma
 
 == Professional Summary
 
-Technical program manager who coordinates cross-functional delivery in ASML's tier-one supply chain — from qualification tooling and surface treatment strategy to R&D funding concepts and Technology Angels roadmap input. Previously managed EU-funded surgical robotics research with multi-partner consortia and EUR 4M+ budgets.
+Technical program manager who coordinates cross-functional delivery in ASML's tier-one supply chain, from qualification tooling and surface treatment strategy to R&D funding concepts and Technology Angels roadmap input. Previously managed EU-funded surgical robotics research with multi-partner consortia and EUR 4M+ budgets.
 
 == Core Competencies
 
@@ -17,40 +17,40 @@ Program Management · R&D Strategy · Stakeholder Management · Horizon Europe /
 
 == Professional Experience
 
-=== System Lead Engineer — NTS D&E (Norma), Hengelo
+=== System Lead Engineer, NTS D&E, Hengelo
 _Tier-1 ASML supplier_ | Mar 2022–Present
 
 * Built RFI concept linking NTS precision-manufacturing competences to EU/Dutch R&D funding programs and evaluated about 40 opportunities.
 * Drove qualification tooling workstreams from requirements through acceptance criteria, covering pressure decay, particle validation, HMI behavior, and review closure.
 * Chaired the Surface Treatment team and mapped supplier/process options for electropolishing, plasma polishing, passivation, acid etching, and precision cleaning.
 
-=== Lead Mechanical Engineer — VDL ETG T&D, Hengelo
-_ASML supplier — precision opto-mechanical systems_ | Jul 2020–Feb 2022
+=== Lead Mechanical Engineer, VDL ETG T&D, Hengelo
+_ASML supplier, precision opto-mechanical systems_ | Jul 2020–Feb 2022
 
-* Led EXE5000 wafer stage cable slab integration tooling workstreams across fixtures, hose/cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+* Led EXE5000 cable slab integration tooling workstreams across fixtures, hose/cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
 * Supported NXE3800 heat-shield maturity through thermal, flow, bolt, defectivity, review, and release-documentation questions.
 
-=== PhD Researcher — University of Twente, Enschede
-_MRI-compatible Surgical Robotics_ | Aug 2014–Mar 2020
+=== PhD Researcher, University of Twente, Enschede
+_MRI-compatible Surgical Robotics_ | 2016-2020
 
 * Contributed to the EU Horizon 2020 MURAB consortium on MRI and ultrasound robotic assisted biopsy.
 * Supervised MSc/BSc students and coordinated engineering work around MRI-compatible pneumatic robotic prototypes.
 
 == Education
 
-*PhD* — University of Twente, Enschede | 2016–2020
+*PhD*, University of Twente, Enschede | 2016–2020
 
-*MSc, Biomedical Engineering* — Amirkabir University of Technology, Tehran | 2006–2009 +
+*MSc, Biomedical Engineering*, Amirkabir University of Technology, Tehran | 2006–2009 +
 Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_
 
-*BSc, Mechanical Engineering* — Sharif University of Technology, Tehran | 2000–2006
+*BSc, Mechanical Engineering*, Sharif University of Technology, Tehran | 2000–2006
 
 == Technical Skills
 
 [cols="1,4",frame=none,grid=none]
 |===
-|*Languages:*  |Python, C#/.NET, C/C++, MATLAB, Fortran
-|*CAD/CAE:*    |Siemens NX, SolidWorks, CATIA, FreeCAD, ANSYS, OpenFOAM
-|*Other:*      |LaTeX, Git, Linux, Modelica, Simulink
-|*Spoken:*     |English (professional), Dutch (A2), Persian (native)
+|*Languages:* |Python, C#/.NET, C/C++, MATLAB, Fortran
+|*CAD/CAE:*  |Siemens NX, SolidWorks, CATIA, FreeCAD, ANSYS, OpenFOAM
+|*Other:*   |LaTeX, Git, Linux, Modelica, Simulink
+|*Spoken:*   |English (professional), Dutch (A2), Persian (native)
 |===

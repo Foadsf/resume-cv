@@ -1,13 +1,13 @@
 // =============================================================================
-// ONE-PAGE RESUME TEMPLATE — Foad S. Farimani
+// ONE-PAGE RESUME TEMPLATE, Foad S. Farimani
 // =============================================================================
 // VARIANTS: Swap tagged blocks for each target role:
-//   [V1] Systems/R&D Lead
-//   [V2] Software Engineer/Architect
-//   [V3] Program Manager
+//  [V1] Systems/R&D Lead
+//  [V2] Software Engineer/Architect
+//  [V3] Program Manager
 //
 // Render: asciidoctor-pdf resume-onepage.adoc
-//         asciidoctor resume-onepage.adoc  (for HTML)
+//     asciidoctor resume-onepage.adoc (for HTML)
 // =============================================================================
 = Foad S. Farimani
 :doctype: article
@@ -82,8 +82,8 @@ ASML/Semiconductor Tooling · EU Grant Writing · V&V · Siemens NX · C#/.NET �
 
 == Professional Experience
 
-=== System Lead Engineer — NTS D&E (Norma), Hengelo
-_ASML supplier — high-precision manufacturing_ | 20XX–Present
+=== System Lead Engineer, NTS D&E, Hengelo
+_ASML supplier, high-precision manufacturing_ | 20XX–Present
 
 // --- VARIANT BULLETS (pick 3-4 most relevant) --------------------------------
 // [V1]:
@@ -102,7 +102,7 @@ _ASML supplier — high-precision manufacturing_ | 20XX–Present
 // * Drove continuous improvement initiatives across the engineering workflow.
 // -----------------------------------------------------------------------------
 
-=== PhD Researcher — Surgical Robotics, University of Twente
+=== PhD Researcher, Surgical Robotics, University of Twente
 _MRI-Compatible Robotic Systems_ | 20XX–20XX
 
 // [V1]:
@@ -124,9 +124,9 @@ _MRI-Compatible Robotic Systems_ | 20XX–20XX
 
 == Education
 
-*PhD, Surgical Robotics* — University of Twente, Netherlands | 20XX +
-*MSc, Mechanical Engineering* — Amirkabir University of Technology, Tehran | 20XX +
-*BSc, Mechanical Engineering* — Amirkabir University of Technology, Tehran | 20XX
+*PhD, Surgical Robotics*, University of Twente, Netherlands | 20XX +
+*MSc, Mechanical Engineering*, Amirkabir University of Technology, Tehran | 20XX +
+*BSc, Mechanical Engineering*, Amirkabir University of Technology, Tehran | 20XX
 
 '''
 
@@ -144,8 +144,8 @@ _MRI-Compatible Robotic Systems_ | 20XX–20XX
 
 [cols="1,4",frame=none,grid=none]
 |===
-|*Languages:*   |C#, Python, Fortran, MATLAB
-|*Platforms:*    |.NET, Git, Linux, Windows
-|*Engineering:*  |Siemens NX, SolidWorks, ANSYS, OpenFOAM
-|*Other:*        |LaTeX, Technical Writing, Dutch (basic), English (fluent), Persian (native)
+|*Languages:*  |C#, Python, Fortran, MATLAB
+|*Platforms:*  |.NET, Git, Linux, Windows
+|*Engineering:* |Siemens NX, SolidWorks, ANSYS, OpenFOAM
+|*Other:*    |LaTeX, Technical Writing, Dutch (basic), English (fluent), Persian (native)
 |===

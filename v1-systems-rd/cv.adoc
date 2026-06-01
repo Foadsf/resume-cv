@@ -1,4 +1,4 @@
-= Curriculum Vitae — Foad S. Farimani, PhD
+= Curriculum Vitae, Foad S. Farimani, PhD
 :doctype: article
 :icons: font
 :sectnums!:
@@ -22,25 +22,25 @@ Systems engineer with 10+ years delivering precision hardware across ASML's DUV/
 
 == Professional Experience
 
-=== System Lead Engineer — NTS D&E (Norma), Hengelo
-_Tier-1 ASML supplier — high-precision manufacturing systems_ | Mar 2022–Present
+=== System Lead Engineer, NTS D&E, Hengelo
+_Tier-1 ASML supplier, high-precision manufacturing systems_ | Mar 2022–Present
 
 * Owned qualification tooling workstreams for ASML lithography modules, translating pressure decay, particle validation, electrical/mechanical checks, HMI behavior, and acceptance criteria into review-ready engineering deliverables.
-* Resolved a fatigue life risk in Inconel 718 folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs.
+* Resolved a fatigue life risk in Inconel 718 folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs; recognized at ASML's Technology Conference 2024.
 * Built the Research Funding Initiative concept linking NTS precision-manufacturing competences to EU/Dutch R&D programs and screened about 40 opportunities.
 * Chaired the Surface Treatment team and mapped supplier/process options for electropolishing, plasma polishing, passivation, acid etching, and precision cleaning.
 
-=== Lead Mechanical Engineer — VDL ETG T&D, Hengelo
-_ASML supplier — precision opto-mechanical systems_ | Jul 2020–Feb 2022
+=== Lead Mechanical Engineer, VDL ETG T&D, Hengelo
+_ASML supplier, precision opto-mechanical systems_ | Jul 2020–Feb 2022
 
-* Led engineering workstreams for EXE5000 wafer stage cable slab integration tooling, covering fixtures, hose/cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+* Led engineering workstreams for EXE5000 cable slab integration tooling, covering fixtures, hose/cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
 * Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and tolerance-sensitive optical/mechatronic interfaces.
 * Specialized in sheetmetal design, additive manufacturing, and rapid prototyping.
 * Implemented advanced fastener techniques including bolt calculation, welding, and glued connections.
 * Contributed to agile development and concurrent engineering processes.
 
-=== PhD Researcher — University of Twente, Enschede
-_Surgical Robotics Laboratory — MRI-compatible Robotic Systems_ | Dec 2015–Mar 2020
+=== PhD Researcher, University of Twente, Enschede
+_Surgical Robotics Laboratory, MRI-compatible Robotic Systems_ | Dec 2015–Mar 2020
 
 * Developed PneuAct system: additively manufactured pneumatic stepper actuator for MRI-guided interventions.
 * Created PneuARMM platform for pneumatically actuated robotic surgeries.
@@ -50,30 +50,30 @@ _Surgical Robotics Laboratory — MRI-compatible Robotic Systems_ | Dec 2015–M
 * Published 5+ peer-reviewed papers in IEEE ICRA, RA-L, and related venues.
 * Filed two patents on MRI-compatible robotic architectures.
 
-=== Researcher — University of Twente, Enschede
-_Robotics and Mechatronics — MURAB & PanoSurg projects_ | Aug 2014–Nov 2015
+=== Researcher, University of Twente, Enschede
+_Robotics and Mechatronics, MURAB & PanoSurg projects_ | Aug 2014–Nov 2015
 
 * Designed and prototyped McRobot system for MRI-guided thorax interventions.
 * Contributed to EU-funded MURAB project (MRI and Ultrasound Robotic Assisted Biopsy, EUR 4.34M project budget).
 * Developed enhanced reality interfaces for minimally invasive procedures through PanoSurg, a EUR 50K Pioneers in Healthcare award.
 * Implemented collision avoidance algorithms for human-robot collaboration.
 
-=== Researcher — TU Eindhoven
-_Control Systems Technology — Prof. Maarten Steinbuch_ | Aug 2012–Feb 2014
+=== Researcher, TU Eindhoven
+_Control Systems Technology, Prof. Maarten Steinbuch_ | Aug 2012–Feb 2014
 
 * System design of MRI-guided robots for minimally invasive surgery (McRobot project).
 * Applied biomimicry principles to patient-mounted mechanisms for interventional procedures.
 * Designed MRI-compatible force cells and sensors for surgical feedback.
 * Supervised MSc students; contributed to grant proposals for medical robotics research.
 
-=== Research Assistant — Amirkabir University of Technology, Tehran
-_Biomedical Engineering Faculty — Motion Analysis Group_ | Jan 2006–Jan 2010
+=== Research Assistant, Amirkabir University of Technology, Tehran
+_Biomedical Engineering Faculty, Motion Analysis Group_ | Jan 2006–Jan 2010
 
 * Developed MRI-compatible robot designs for minimally invasive procedures.
 * Created robots for radioactive agent injection and needle positioning.
 * Contributed to exoskeleton robot design for rehabilitation.
 
-=== R&D Project Director — Deble Co., Tehran
+=== R&D Project Director, Deble Co., Tehran
 Jan 2004–Jun 2005
 
 * Designed and prototyped a 3D printing system for construction using Iranian plaster (gatch).
@@ -84,14 +84,14 @@ Jan 2004–Jun 2005
 
 == Education
 
-*PhD* — University of Twente, Enschede, 2016–2020 +
+*PhD*, University of Twente, Enschede, 2016–2020 +
 Surgical Robotics Laboratory, Faculty of Engineering Technology
 
-*MSc, Biomedical Engineering* — Amirkabir University of Technology, Tehran, 2006–2009 +
+*MSc, Biomedical Engineering*, Amirkabir University of Technology, Tehran, 2006–2009 +
 Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_ +
 Supervisor: Prof. Rostami | Focus: Medical robotics in Motion Analysis Lab
 
-*BSc, Mechanical Engineering* — Sharif University of Technology, Tehran, 2000–2006 +
+*BSc, Mechanical Engineering*, Sharif University of Technology, Tehran, 2000–2006 +
 Thesis: _Design and prototyping of a construction assistance robot_ | Specialization: Solid State Design
 
 '''
@@ -116,9 +116,9 @@ Thesis: _Design and prototyping of a construction assistance robot_ | Specializa
 
 == Grants & Funded Research
 
-* *MURAB* — EU Horizon 2020, EUR 4.34M project budget (2015). MRI and Ultrasound Robotic Assisted Biopsy.
-* *PneuARMM* — EUR 70K healthcare innovation grant, collaboration UT–MST Enschede (2018).
-* *PanoSurg* — EUR 50K Pioneers in Healthcare award, collaboration UT–ZGT Hengelo (2015).
+* *MURAB*, EU Horizon 2020, EUR 4.34M project budget (2015). MRI and Ultrasound Robotic Assisted Biopsy.
+* *PneuARMM*, EUR 70K healthcare innovation grant, collaboration UT–MST Enschede (2018).
+* *PanoSurg*, EUR 50K Pioneers in Healthcare award, collaboration UT–ZGT Hengelo (2015).
 
 '''
 
@@ -126,12 +126,12 @@ Thesis: _Design and prototyping of a construction assistance robot_ | Specializa
 
 [cols="1,4",frame=none,grid=none]
 |===
-|*Programming:*    |Python (NumPy, SciPy, Jupyter), C#/.NET/WPF/XAML, C/C++, MATLAB/Simulink/Octave, Fortran
-|*CAD/CAE:*        |Siemens NX, SolidWorks, CATIA, FreeCAD, Inventor, Fusion 360, ANSYS, COMSOL, OpenFOAM, Elmer FEM
-|*Simulation:*     |Modelica, Simulink, system modeling
-|*Platforms:*      |Git, Linux, Windows, Docker
-|*Documentation:*  |LaTeX, AsciiDoc, Markdown, LibreOffice, Inkscape, GIMP, Blender
-|*Methodologies:*  |Systems Engineering (V-model), Agile/Scrum, Lean Manufacturing, Concurrent Engineering
+|*Programming:*  |Python (NumPy, SciPy, Jupyter), C#/.NET/WPF/XAML, C/C++, MATLAB/Simulink/Octave, Fortran
+|*CAD/CAE:*    |Siemens NX, SolidWorks, CATIA, FreeCAD, Inventor, Fusion 360, ANSYS, COMSOL, OpenFOAM, Elmer FEM
+|*Simulation:*   |Modelica, Simulink, system modeling
+|*Platforms:*   |Git, Linux, Windows, Docker
+|*Documentation:* |LaTeX, AsciiDoc, Markdown, LibreOffice, Inkscape, GIMP, Blender
+|*Methodologies:* |Systems Engineering (V-model), Agile/Scrum, Lean Manufacturing, Concurrent Engineering
 |===
 
 '''
@@ -140,7 +140,7 @@ Thesis: _Design and prototyping of a construction assistance robot_ | Specializa
 
 [cols="1,4",frame=none,grid=none]
 |===
-|*GitHub:*         |166 repositories, 490+ stars. Notable: https://github.com/Foadsf/Cmathtuts[Cmathtuts] (438★), https://github.com/Foadsf/NXOpen_Python_tutorials[NXOpen_Python] (75★), https://github.com/Foadsf/awsomeEngSci[awsomeEngSci] (41★), https://github.com/Foadsf/NXtips[NXtips] (37★)
+|*GitHub:*     |166 repositories, 490+ stars. Notable: https://github.com/Foadsf/Cmathtuts[Cmathtuts] (438★), https://github.com/Foadsf/NXOpen_Python_tutorials[NXOpen_Python] (75★), https://github.com/Foadsf/awsomeEngSci[awsomeEngSci] (41★), https://github.com/Foadsf/NXtips[NXtips] (37★)
 |*Stack Overflow:* |14,467 reputation, 19 gold / 100 silver / 261 bronze badges. Top tags: Python, Windows, PyAudio, NumPy
 |*FLOSS Advocacy:* |Maintainer of Awesome-FLOSS-CAS; open-source software advocate and contributor
 |===

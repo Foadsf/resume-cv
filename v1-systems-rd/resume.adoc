@@ -17,40 +17,40 @@ Systems Architecture · Mechatronics · Motion Control · Air Bearings · Precis
 
 == Professional Experience
 
-=== System Lead Engineer — NTS D&E (Norma), Hengelo
+=== System Lead Engineer, NTS D&E, Hengelo
 _Tier-1 ASML supplier_ | Mar 2022–Present
 
 * Owned qualification tooling workstreams for ASML lithography modules, translating pressure decay, particle validation, electrical/mechanical checks, HMI behavior, and acceptance criteria into review-ready engineering deliverables.
-* Resolved a fatigue life risk in Inconel 718 folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs.
+* Resolved a fatigue life risk in Inconel 718 folded leaf springs by tracing failures to EDM recast layer, coordinating plasma polishing and Kolsterising/K33 trials, and validating 2x life improvement on representative leaf springs; recognized at ASML's Technology Conference 2024.
 * Built the Research Funding Initiative concept linking NTS precision-manufacturing competences to EU/Dutch R&D programs, screened about 40 opportunities, and translated candidate calls into project/business cases.
 
-=== Lead Mechanical Engineer — VDL ETG T&D, Hengelo
-_ASML supplier — precision opto-mechanical systems_ | Jul 2020–Feb 2022
+=== Lead Mechanical Engineer, VDL ETG T&D, Hengelo
+_ASML supplier, precision opto-mechanical systems_ | Jul 2020–Feb 2022
 
-* Led engineering workstreams for EXE5000 wafer stage cable slab integration tooling, covering fixtures, hose/cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+* Led engineering workstreams for EXE5000 cable slab integration tooling, covering fixtures, hose/cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
 * Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and tolerance-sensitive optical/mechatronic interfaces.
 
-=== PhD Researcher — University of Twente, Enschede
-_MRI-compatible Surgical Robotics_ | Aug 2014–Mar 2020
+=== PhD Researcher, University of Twente, Enschede
+_MRI-compatible Surgical Robotics_ | 2016-2020
 
 * Developed PneuAct pneumatic stepper actuators and MRI-compatible robotic concepts for image-guided surgery.
 * Contributed to the EU Horizon 2020 MURAB consortium and authored peer-reviewed work on MRI-compatible pneumatic actuation.
 
 == Education
 
-*PhD* — University of Twente, Enschede | 2016–2020
+*PhD*, University of Twente, Enschede | 2016–2020
 
-*MSc, Biomedical Engineering* — Amirkabir University of Technology, Tehran | 2006–2009 +
+*MSc, Biomedical Engineering*, Amirkabir University of Technology, Tehran | 2006–2009 +
 Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_
 
-*BSc, Mechanical Engineering* — Sharif University of Technology, Tehran | 2000–2006
+*BSc, Mechanical Engineering*, Sharif University of Technology, Tehran | 2000–2006
 
 == Technical Skills
 
 [cols="1,4",frame=none,grid=none]
 |===
-|*Languages:*  |Python, C#/.NET, C/C++, MATLAB, Fortran
-|*CAD/CAE:*    |Siemens NX, SolidWorks, CATIA, FreeCAD, ANSYS, OpenFOAM
-|*Other:*      |LaTeX, Git, Linux, Modelica, Simulink
-|*Spoken:*     |English (professional), Dutch (A2), Persian (native)
+|*Languages:* |Python, C#/.NET, C/C++, MATLAB, Fortran
+|*CAD/CAE:*  |Siemens NX, SolidWorks, CATIA, FreeCAD, ANSYS, OpenFOAM
+|*Other:*   |LaTeX, Git, Linux, Modelica, Simulink
+|*Spoken:*   |English (professional), Dutch (A2), Persian (native)
 |===

@@ -18,22 +18,22 @@ Mechatronics engineer who connects mechanical design, sensors, test hardware, an
 
 == Professional Experience
 
-=== System Lead Engineer -- NTS D&E (Norma), Hengelo
+=== System Lead Engineer, NTS D&E, Hengelo
 _Mar 2022-Present_
 
 * Owned qualification tooling workstreams covering pressure decay, particle validation, electrical/mechanical checks, HMI behavior, and Golden Sample calibration.
 * Performed system engineering for the EXE:5200 sensor assembly, including design kickoff, part-numbering, and release-planning coordination.
 * Bridged mockup design, hardware-in-the-loop testing, and software validation needs in the Safety PLC Emulator workstream.
 
-=== Lead Mechanical Engineer -- VDL ETG T&D
+=== Lead Mechanical Engineer, VDL ETG T&D
 _Jul 2020-Feb 2022_
 
 * Developed precision-mechanics concepts and calculation packages for YieldStar 500 fiducial interfaces, including leaf-spring stiffness, geometry trade-offs, and CAD-facing design decisions.
-* Led EXE5000 wafer stage cable slab integration tooling workstreams across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
+* Led EXE5000 cable slab integration tooling workstreams across fixtures, hose and cable preforming, molds, CAD interfaces, supplier feedback, and manufacturability closure.
 * Interpreted bellows, pressure-drop, stiffness, and force-decoupler behavior for early-stage ATCM/VES mechanical concepts.
 
-=== PhD Researcher -- University of Twente / TU Eindhoven
-_Aug 2012-Mar 2020_
+=== PhD Researcher, University of Twente / TU Eindhoven
+_2016-2020_
 
 * Designed and tested MRI-compatible pneumatic stepper actuators, patient-mounted robot concepts, sensor interfaces, and experimental setups.
 * Authored peer-reviewed work on MRI-compatible pneumatic actuation and holds patents on MRI-compatible surgery assistant and drug-injection robot concepts.
@@ -41,12 +41,12 @@ _Aug 2012-Mar 2020_
 
 == Education
 
-*PhD* -- University of Twente, Enschede | 2016-2020
+*PhD*, University of Twente, Enschede | 2016-2020
 
-*MSc, Biomedical Engineering* -- Amirkabir University of Technology, Tehran | 2006–2009 +
+*MSc, Biomedical Engineering*, Amirkabir University of Technology, Tehran | 2006–2009 +
 Thesis: _Design and prototyping of MRI/CT compatible robot for minimally invasive interventions_
 
-*BSc, Mechanical Engineering* -- Sharif University of Technology, Tehran | 2000–2006
+*BSc, Mechanical Engineering*, Sharif University of Technology, Tehran | 2000–2006
 
 == Technical Skills
 
